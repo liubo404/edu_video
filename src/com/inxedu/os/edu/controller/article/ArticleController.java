@@ -29,7 +29,7 @@ import com.inxedu.os.edu.service.website.WebsiteImagesService;
 
 /**
  * 前台文章资讯
- * @author www.inxedu.com
+ *
  */
 @Controller
 @RequestMapping("/front")

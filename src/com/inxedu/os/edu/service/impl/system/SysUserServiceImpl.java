@@ -15,7 +15,7 @@ import com.inxedu.os.edu.entity.system.SysUser;
 import com.inxedu.os.edu.service.system.SysUserService;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Service("sysUserService")

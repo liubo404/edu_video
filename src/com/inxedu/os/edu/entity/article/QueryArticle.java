@@ -8,7 +8,7 @@ import org.springframework.format.annotation.DateTimeFormat;
 import lombok.Data;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Data

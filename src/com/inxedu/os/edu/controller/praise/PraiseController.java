@@ -22,7 +22,7 @@ import com.inxedu.os.edu.service.praise.PraiseService;
 
 /**
  * 点赞controller
- * @author www.inxedu.com
+ *
  */
 @Controller
 public class PraiseController extends BaseController {

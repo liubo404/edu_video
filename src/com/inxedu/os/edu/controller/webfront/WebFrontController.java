@@ -38,7 +38,7 @@ import java.util.Map;
 
 /**
  * 前台 controller
- * @author www.inxedu.com
+ *
  */
 @Controller
 public class WebFrontController extends BaseController {

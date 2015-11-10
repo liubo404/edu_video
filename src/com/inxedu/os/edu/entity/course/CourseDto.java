@@ -9,7 +9,7 @@ import lombok.EqualsAndHashCode;
 
 /**
  * 课程综合信息
- * @author www.inxedu.com
+ *
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

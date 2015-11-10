@@ -19,7 +19,7 @@ import com.inxedu.os.edu.service.website.WebsiteNavigateService;
 
 /**
  * WebsiteNavigateTbl管理接口
- * @author www.inxedu.com
+ *
  */
 @Service("websiteNavigateService")
 public class WebsiteNavigateServiceImpl implements WebsiteNavigateService {

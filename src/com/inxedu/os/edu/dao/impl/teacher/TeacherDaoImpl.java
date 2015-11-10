@@ -14,7 +14,7 @@ import com.inxedu.os.edu.entity.teacher.Teacher;
 
 /**
  * 教师dao层
- * @author www.inxedu.com
+ *
  */
 @Repository("teacherDao")
 public class TeacherDaoImpl extends GenericDaoImpl implements TeacherDao {

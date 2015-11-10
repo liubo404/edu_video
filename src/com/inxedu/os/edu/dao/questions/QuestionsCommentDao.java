@@ -8,7 +8,7 @@ import com.inxedu.os.edu.entity.questions.QuestionsComment;
 
 /**
  * QuestionsComment管理接口
- * @author www.inxedu.com
+ *
  */
 public interface QuestionsCommentDao {
 

@@ -11,7 +11,7 @@ import com.inxedu.os.edu.entity.user.UserLoginLog;
 import com.inxedu.os.edu.service.user.UserLoginLogService;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Service("userLoginLogService")

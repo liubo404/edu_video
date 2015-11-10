@@ -7,7 +7,7 @@ import com.inxedu.os.edu.entity.questions.QuestionsTag;
 
 /**
  * 专业接口
- * @author www.inxedu.com
+ *
  */
 public interface QuestionsTagService {
 	/**

@@ -4,7 +4,7 @@ package com.inxedu.os.edu.dao.course;
 
 /**
  * CourseTeacher管理接口
- * @author www.inxedu.com
+ *
  */
 public interface CourseTeacherDao {
 

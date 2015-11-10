@@ -8,7 +8,7 @@ import com.inxedu.os.edu.entity.user.User;
 
 /**
  * @description 站内信
- * @author www.inxedu.com
+ *
  */
 public class MsgSender implements Serializable {
     /**

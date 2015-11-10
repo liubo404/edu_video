@@ -10,7 +10,7 @@ import com.inxedu.os.edu.dao.questions.QuestionsDao;
 import com.inxedu.os.edu.entity.questions.Questions;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Repository("questionsDao")

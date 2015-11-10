@@ -11,7 +11,7 @@ import lombok.EqualsAndHashCode;
  * @ClassName com.yizhilu.os.core.entity.weibo.Letter
  * @description 站内信
  * @Create Date : 2013-12-13 下午12:43:02
- * @author www.inxedu.com
+ *
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

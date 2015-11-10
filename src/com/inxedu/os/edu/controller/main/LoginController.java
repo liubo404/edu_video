@@ -29,7 +29,7 @@ import com.inxedu.os.edu.service.system.SysUserLoginLogService;
 import com.inxedu.os.edu.service.system.SysUserService;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Controller

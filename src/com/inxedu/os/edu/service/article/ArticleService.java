@@ -10,7 +10,7 @@ import com.inxedu.os.edu.entity.article.ArticleContent;
 import com.inxedu.os.edu.entity.article.QueryArticle;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 public interface ArticleService {

@@ -17,7 +17,7 @@ import com.inxedu.os.edu.entity.letter.QueryMsgReceive;
  * @package com.yizhilu.open.sns.dao.impl.weibo
  * @description
  * @Create Date: 2013-12-10 下午4:21:21
- * @author www.inxedu.com
+ *
  */
 @Repository("msgReceiveDao")
 public class MsgReceiveDaoImpl extends GenericDaoImpl implements MsgReceiveDao {

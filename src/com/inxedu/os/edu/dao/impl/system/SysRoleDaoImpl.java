@@ -9,7 +9,7 @@ import com.inxedu.os.edu.dao.system.SysRoleDao;
 import com.inxedu.os.edu.entity.system.SysRole;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Repository("sysRoleDao")

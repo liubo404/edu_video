@@ -12,7 +12,7 @@ import com.inxedu.os.edu.entity.letter.MsgSystem;
  * @ClassName com.yizhilu.os.sns.service.letter.MsgSenderService
  * @description 站内信的发件箱service
  * @Create Date : 2014-1-26 下午1:53:44
- * @author www.inxedu.com
+ *
  */
 public interface MsgSystemService {
 

@@ -25,7 +25,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 /**
  * StatisticsDay管理接口
- * @author www.inxedu.com
+ *
  */
 @Controller
 @RequestMapping("/admin")

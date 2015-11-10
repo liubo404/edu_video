@@ -13,7 +13,7 @@ import lombok.EqualsAndHashCode;
  * 
  * @ClassName com.yizhilu.os.edu.entity.course.QueryCourseNote
  * @description
- * @author www.inxedu.com
+ *
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

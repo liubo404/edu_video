@@ -9,7 +9,7 @@ import com.inxedu.os.edu.entity.subject.Subject;
 
 /**
  * 专业接口
- * @author www.inxedu.com
+ *
  */
 public interface SubjectService {
 	/**

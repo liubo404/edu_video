@@ -9,7 +9,7 @@ import com.inxedu.os.edu.dao.website.WebsiteProfileDao;
 import com.inxedu.os.edu.entity.website.WebsiteProfile;
 
 /** 网站配置 
- * @author www.inxedu.com
+ *
  * */
  @Repository("websiteProfileDao")
 public class WebsiteProfileDaoImpl extends GenericDaoImpl implements WebsiteProfileDao {

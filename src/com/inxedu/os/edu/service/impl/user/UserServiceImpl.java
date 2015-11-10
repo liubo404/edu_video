@@ -18,7 +18,7 @@ import com.inxedu.os.edu.entity.user.User;
 import com.inxedu.os.edu.service.user.UserService;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Service("userService")

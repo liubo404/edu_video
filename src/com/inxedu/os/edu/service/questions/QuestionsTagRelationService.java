@@ -6,7 +6,7 @@ import com.inxedu.os.edu.entity.questions.QuestionsTagRelation;
 
 /**
 * 问答和 问答标签的 关联表service层接口
-* @author www.inxedu.com
+*
 */
 public interface QuestionsTagRelationService {
 	/**

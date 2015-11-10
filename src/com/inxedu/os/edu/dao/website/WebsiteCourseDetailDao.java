@@ -9,7 +9,7 @@ import com.inxedu.os.edu.entity.website.WebsiteCourseDetail;
 import com.inxedu.os.edu.entity.website.WebsiteCourseDetailDTO;
 
 /** 推荐课程关联Dao层 
- * @author www.inxedu.com
+ *
  * */
 public interface WebsiteCourseDetailDao {
 	/**

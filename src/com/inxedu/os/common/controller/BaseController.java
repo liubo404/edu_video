@@ -18,7 +18,7 @@ import java.util.Map;
  * Controller基础继承类
  * @ClassName com.yizhilu.os.inxedu.common.BaseController
  * @Create Date : 2015-3-16 下午2:11:59
- *  @author www.inxedu.com
+ *
  */
 
 public class BaseController {

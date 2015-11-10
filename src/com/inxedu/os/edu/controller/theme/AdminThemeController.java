@@ -18,7 +18,7 @@ import com.inxedu.os.common.controller.BaseController;
 
 /**
  * 教师管理
- * @author www.inxedu.com
+ *
  */
 @Controller
 @RequestMapping("/admin")

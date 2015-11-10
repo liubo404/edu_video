@@ -7,7 +7,7 @@ import lombok.Data;
 
 /**
  * 点赞表
- *@author www.inxedu.com
+ *
  */
 @Data
 public class Praise  implements Serializable{

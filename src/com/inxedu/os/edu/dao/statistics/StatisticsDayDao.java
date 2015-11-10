@@ -9,7 +9,7 @@ import com.inxedu.os.edu.entity.statistics.StatisticsDay;
 
 /**
  * StatisticsDay管理接口
- * @author www.inxedu.com
+ *
  */
 public interface StatisticsDayDao {
 

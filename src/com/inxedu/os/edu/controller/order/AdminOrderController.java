@@ -30,7 +30,7 @@ import com.inxedu.os.edu.entity.system.SysUser;
 import com.inxedu.os.edu.service.order.OrderService;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Controller

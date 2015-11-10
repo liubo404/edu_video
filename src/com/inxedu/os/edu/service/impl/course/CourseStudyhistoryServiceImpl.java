@@ -20,7 +20,7 @@ import com.inxedu.os.edu.service.website.WebsiteProfileService;
 
 /**
  * CourseStudyhistory管理接口 
- * @author www.inxedu.com
+ *
  */
 @Service("courseStudyhistoryService")
 public class CourseStudyhistoryServiceImpl implements CourseStudyhistoryService {

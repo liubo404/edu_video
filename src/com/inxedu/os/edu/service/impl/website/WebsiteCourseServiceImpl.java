@@ -11,7 +11,7 @@ import com.inxedu.os.edu.service.website.WebsiteCourseService;
 
 /**
  * 推荐课程分类管理接口
- * @author www.inxedu.com
+ *
  */
 @Service("websiteCourseService")
 public class WebsiteCourseServiceImpl implements WebsiteCourseService {

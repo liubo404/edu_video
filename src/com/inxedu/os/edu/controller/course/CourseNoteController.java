@@ -23,7 +23,7 @@ import java.util.List;
 import java.util.Map;
 /**
  * CourseNote Controller
- * @author www.inxedu.com
+ *
  */
 @Controller
 public class CourseNoteController extends BaseController{

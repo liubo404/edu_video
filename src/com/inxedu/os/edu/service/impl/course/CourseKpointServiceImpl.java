@@ -14,7 +14,7 @@ import com.inxedu.os.edu.service.course.CourseKpointService;
 
 /**
  * CourseKpoint管理接口
- * @author www.inxedu.com
+ *
  */
 @Service("courseKpointService")
 public class CourseKpointServiceImpl implements CourseKpointService {

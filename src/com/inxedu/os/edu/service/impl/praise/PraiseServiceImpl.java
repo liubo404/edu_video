@@ -18,7 +18,7 @@ import com.inxedu.os.edu.service.questions.QuestionsService;
 
 /**
  * 点赞服务接口实现
- *@author www.inxedu.com
+ *
  */
 @Service("praiseService")
 public class PraiseServiceImpl implements PraiseService {

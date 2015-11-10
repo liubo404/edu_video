@@ -17,7 +17,7 @@ import com.inxedu.os.edu.entity.letter.MsgSystem;
  * @ClassName com.yizhilu.os.sns.dao.impl.letter.MsgSenderDaoImpl
  * @description 站内信发件箱的Dao 实现
  * @Create Date : 2014-1-26 下午2:00:50
- * @author www.inxedu.com
+ *
  */
 @Repository("MsgSystemDao")
 public class MsgSystemDaoImpl extends GenericDaoImpl implements MsgSystemDao {

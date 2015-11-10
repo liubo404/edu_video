@@ -19,7 +19,7 @@ import nl.bitwalker.useragentutils.OperatingSystem;
 import nl.bitwalker.useragentutils.UserAgent;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 public class WebUtils {

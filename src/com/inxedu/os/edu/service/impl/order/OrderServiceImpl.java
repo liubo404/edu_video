@@ -15,7 +15,7 @@ import com.inxedu.os.edu.entity.order.QueryOrder;
 import com.inxedu.os.edu.service.order.OrderService;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Service("orderService")

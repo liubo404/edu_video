@@ -12,7 +12,7 @@ import com.inxedu.os.edu.entity.system.QuerySysUser;
 import com.inxedu.os.edu.entity.system.SysUser;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Repository("sysUserDao")

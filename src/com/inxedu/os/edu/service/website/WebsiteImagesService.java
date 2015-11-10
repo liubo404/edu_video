@@ -10,7 +10,7 @@ import com.inxedu.os.edu.entity.website.WebsiteImages;
 
 /**
  *广告图service 接口
- *@author www.inxedu.com
+ *
  */
 public interface WebsiteImagesService {
 	/**

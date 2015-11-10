@@ -28,7 +28,7 @@ import com.inxedu.os.edu.service.website.WebsiteProfileService;
 
 /**
  * 网站配置管理
- * @author www.inxedu.com
+ *
  */
 @Controller
 @RequestMapping("/admin")

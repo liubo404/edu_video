@@ -30,7 +30,7 @@ import com.inxedu.os.edu.service.order.OrderService;
 import com.inxedu.os.edu.service.website.WebsiteProfileService;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Controller

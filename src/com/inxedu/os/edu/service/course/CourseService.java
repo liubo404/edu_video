@@ -12,7 +12,7 @@ import com.inxedu.os.edu.entity.course.QueryCourse;
 
 /**
  * Course管理接口
- * @author www.inxedu.com
+ *
  */
 public interface CourseService {
 	 /**

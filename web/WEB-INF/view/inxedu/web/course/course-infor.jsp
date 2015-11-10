@@ -89,12 +89,12 @@
 							<a class="c-fff" title="收藏" onclick="favorites('${course.courseId}')" href="javascript:void(0)">收藏</a></span>
 							 <span class="ml20 vam sc-end"><em class="icon18 scIcon"></em>
 							<a class="c-fff" title="收藏" onclick="" href="javascript:void(0)">已收藏</a></span> --%>
-							<c:if test="${isFavorites==true }">
+						<%--   收藏	<c:if test="${isFavorites==true }">
 										<span class="ml10 vam sc-end"><em class="icon18 scIcon"></em><a class="c-fff vam" title="收藏" onclick="" href="javascript:void(0)">已收藏</a></span>
 									</c:if>
 									<c:if test="${isFavorites!=true }">
 										<span class="ml10 vam"><em class="icon18 scIcon"></em><a class="c-fff vam" title="收藏" onclick="favorites(${course.courseId},this)" href="javascript:void(0)">收藏</a></span>
-									</c:if>
+									</c:if>--%>
 						</section>
 					</section>
 				</aside>
@@ -128,7 +128,7 @@
 								<section id="c-i-tabTitle" class="c-infor-tabTitle c-tab-title">
 									<a name="c-i" class="current" title="课程详情" href="javascript: void(0)">课程详情</a>
 									<a name="c-g" title="课程大纲" href="javascript: void(0)">课程大纲</a>
-									<a name="c-c" title="课程评论" href="javascript: void(0)">课程评论</a>
+									<%--<a name="c-c" title="课程评论" href="javascript: void(0)">课程评论</a>--%>
 								</section>
 							</div>
 							<article class="ml10 mr10 pt20">
@@ -213,7 +213,9 @@
 									</section>
 								</div>
 								<!-- /课程大纲 -->
+<%--
 								<div class="mt50 commentHtml"></div>
+--%>
 								<!-- /课程评论 -->
 							</article>
 						</div>
@@ -256,14 +258,14 @@
 							</section>
 						</div>
 					</div>
-					<div class="i-box mt20">
+					<%--<div class="i-box mt20">
 						<div  id="courseLearnedUserDiv">
 							<section class="c-infor-tabTitle c-tab-title">
 								<a title="" href="javascript:void(0)">学过此课的人（0）</a>
 							</section>
 							<section class="no-data-wrap"><em class="icon30 no-data-ico">&nbsp;</em><span class="c-666 fsize14 ml10 vam">还没有人学过此课程，快去学习吧...</span></section>
 						</div>
-					</div>
+					</div>--%>
 					<div class="i-box mt20">
 						<div>
 							<section class="c-infor-tabTitle c-tab-title">

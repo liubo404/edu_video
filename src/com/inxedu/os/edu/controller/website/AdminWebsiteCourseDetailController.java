@@ -30,7 +30,7 @@ import com.inxedu.os.edu.service.website.WebsiteCourseService;
 
 /**
  * 推荐课程  Controller
- * @author www.inxedu.com
+ *
  *
  */
 @Controller

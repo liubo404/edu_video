@@ -14,7 +14,7 @@ import com.inxedu.os.edu.entity.letter.QueryMsgReceive;
  * @package com.yizhilu.open.sns.dao.weibo
  * @description 站内信Dao的接口
  * @Create Date: 2013-12-10 下午4:19:50
- * @author www.inxedu.com
+ *
  */
 
 public interface MsgReceiveDao {

@@ -42,7 +42,7 @@ import com.inxedu.os.edu.service.subject.SubjectService;
 import com.inxedu.os.edu.service.teacher.TeacherService;
 /**
  * Course管理接口
- * @author www.inxedu.com
+ *
  */
 @Controller
 public class CourseController extends BaseController {

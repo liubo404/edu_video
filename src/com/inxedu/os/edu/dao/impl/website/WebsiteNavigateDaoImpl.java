@@ -11,7 +11,7 @@ import com.inxedu.os.edu.entity.website.WebsiteNavigate;
 
 /**
  * 网站导航dao
- * @author www.inxedu.com
+ *
  */
 @Repository("websiteNavigateDao")
 public class WebsiteNavigateDaoImpl extends GenericDaoImpl implements WebsiteNavigateDao {

@@ -41,7 +41,7 @@ import com.inxedu.os.edu.service.user.UserLoginLogService;
 import com.inxedu.os.edu.service.user.UserService;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Controller

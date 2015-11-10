@@ -9,7 +9,7 @@ import com.inxedu.os.edu.dao.website.WebSiteImagesTypeDao;
 import com.inxedu.os.edu.entity.website.WebSiteImagesType;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Repository("webSiteImagesTypeDao")

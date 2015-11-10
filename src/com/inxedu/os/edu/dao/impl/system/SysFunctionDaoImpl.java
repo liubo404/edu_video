@@ -10,7 +10,7 @@ import com.inxedu.os.edu.dao.system.SysFunctionDao;
 import com.inxedu.os.edu.entity.system.SysFunction;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Repository("sysFunctionDao")

@@ -15,6 +15,8 @@
 				</c:forEach>
 			</ul>
 			<!-- / nav -->
+			<%--
+			用户系统隐藏
 			<ul class="h-r-login">
 				<li class="undis" id="no-login"><a href="javascript:lrFun()" title="登录">
 						<em class="icon18 login-icon">&nbsp;</em><span class="vam ml5">登录</span>
@@ -28,7 +30,7 @@
 						</a>
 						<a href="javascript:void(0)" title="退出" onclick="exit();" class="ml5">退出</a></li>
 				<!-- /未登录显示第1 li；登录后显示第2，3 li -->
-			</ul>
+			</ul>--%>
 			<aside class="h-r-search">
 				<form action="${ctx}/front/showcoulist" method="post">
 					<label class="h-r-s-box"><input type="text" placeholder="输入你想学的课程" name="queryCourse.courseName" value="${queryCourse.courseName}">
@@ -107,7 +109,7 @@
 				<li>
 					<span>Wo的消息</span>
 					<ol>
-						<li><a href="javascript:void()" onclick="mobileHrefCheckLogin('${ctx }/uc/letter')" title="">系统消息</a></li>
+						<li><a href="javascript:;" onclick="mobileHrefCheckLogin('${ctx }/uc/letter')" title="">系统消息</a></li>
 					</ol>
 				</li>
 			</ul>

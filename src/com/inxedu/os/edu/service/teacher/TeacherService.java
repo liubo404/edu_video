@@ -10,7 +10,7 @@ import com.inxedu.os.edu.entity.teacher.Teacher;
 
 /**
  * Teacher管理接口
- * @author www.inxedu.com
+ *
  */
 public interface TeacherService {
 	/**

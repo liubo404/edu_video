@@ -9,7 +9,7 @@ import com.inxedu.os.edu.entity.course.CourseStudyhistory;
 
 /**
  * CourseStudyhistory管理接口
- * @author www.inxedu.com
+ *
  */
 public interface CourseStudyhistoryDao {
 

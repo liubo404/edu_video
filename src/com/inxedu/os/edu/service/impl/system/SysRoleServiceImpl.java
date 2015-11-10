@@ -10,7 +10,7 @@ import com.inxedu.os.edu.entity.system.SysRole;
 import com.inxedu.os.edu.service.system.SysRoleService;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Service("sysRoleService")

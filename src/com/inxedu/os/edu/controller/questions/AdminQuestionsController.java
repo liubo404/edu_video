@@ -30,7 +30,7 @@ import com.inxedu.os.edu.service.questions.QuestionsTagService;
 
 /**
  * 问答后台 Controller
- * @author www.inxedu.com
+ *
  */
 @Controller
 @RequestMapping("/admin")

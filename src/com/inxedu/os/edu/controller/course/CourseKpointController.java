@@ -25,7 +25,7 @@ import com.inxedu.os.edu.service.website.WebsiteProfileService;
 
 /**
  * CourseKpoint管理接口 User: qinggang.liu Date: 2014-05-27
- * @author www.inxedu.com
+ *
  */
 @Controller
 public class CourseKpointController extends BaseController {

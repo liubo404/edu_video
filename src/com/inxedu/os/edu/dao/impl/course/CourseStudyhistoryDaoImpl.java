@@ -16,7 +16,7 @@ import com.inxedu.os.edu.entity.course.CourseStudyhistory;
 /**
  *
  * CourseStudyhistory 管理接口实现
- * @author www.inxedu.com
+ *
  */
  @Repository("courseStudyhistoryDao")
 public class CourseStudyhistoryDaoImpl extends GenericDaoImpl implements CourseStudyhistoryDao{

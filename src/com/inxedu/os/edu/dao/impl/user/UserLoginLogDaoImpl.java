@@ -10,7 +10,7 @@ import com.inxedu.os.edu.dao.user.UserLoginLogDao;
 import com.inxedu.os.edu.entity.user.UserLoginLog;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Repository("userLoginLogDao")

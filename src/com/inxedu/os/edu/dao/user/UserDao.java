@@ -10,7 +10,7 @@ import com.inxedu.os.edu.entity.user.QueryUser;
 import com.inxedu.os.edu.entity.user.User;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 public interface UserDao {

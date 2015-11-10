@@ -29,7 +29,7 @@ import com.inxedu.os.edu.service.teacher.TeacherService;
 
 /**
  * Teacher管理接口
- * @author www.inxedu.com
+ *
  */
 @Controller
 public class TeacherController extends BaseController {

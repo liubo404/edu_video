@@ -77,7 +77,7 @@
 		</div>
 		<!-- /网校课程 结束 -->
 		<!-- /课程互动 开始-->
-		<div class="bg-fa of mt30">
+		<%--<div class="bg-fa of mt30">
 			<section class="container">
 				<article class="fl col-7">
 					<div class="mr50">
@@ -126,6 +126,7 @@
 						</div>
 					</div>
 				</article>
+&lt;%&ndash;
 				<aside class="fl col-3">
 					<header class="comm-title">
 						<!-- <span class="fr"><a class="c-master" title="" href="">换一换</a></span> -->
@@ -151,9 +152,10 @@
 						</section>
 					</div>
 				</aside>
+&ndash;%&gt;
 				<div class="clear"></div>
 			</section>
-		</div>
+		</div>--%>
 		<!-- /课程互动 结束-->
 		<!-- /网校名师 开始 -->
 		<div>

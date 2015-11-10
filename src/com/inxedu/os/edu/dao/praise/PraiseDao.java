@@ -4,7 +4,7 @@ import com.inxedu.os.edu.entity.praise.Praise;
 
 /**
  * 点赞管理接口
- *@author www.inxedu.com
+ *
  */
 public interface PraiseDao {
 	/**

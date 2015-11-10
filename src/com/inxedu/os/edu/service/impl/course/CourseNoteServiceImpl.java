@@ -13,7 +13,7 @@ import com.inxedu.os.edu.entity.course.QueryCourseNote;
 import com.inxedu.os.edu.service.course.CourseNoteService;
 /**
  * CourseNoteService管理接口实现
- * @author www.inxedu.com
+ *
  */
 @Service("courseNoteService")
 public class CourseNoteServiceImpl implements CourseNoteService {

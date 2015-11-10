@@ -12,7 +12,7 @@ import com.inxedu.os.edu.service.questions.QuestionsService;
 
 /**
  * questions服务接口 实现
- *@author www.inxedu.com
+ *
  */
 @Service("questionsService")
 public class QuestionsServiceImpl implements QuestionsService {

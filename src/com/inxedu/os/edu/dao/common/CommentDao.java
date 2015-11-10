@@ -8,7 +8,7 @@ import org.springframework.common.entity.PageEntity;
 import com.inxedu.os.edu.entity.common.Comment;
 /**
  * 评论dao层接口
- * @author www.inxedu.com
+ *
  */
 public interface CommentDao {
 	/**

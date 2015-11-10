@@ -15,7 +15,7 @@ import com.inxedu.os.edu.service.course.CourseFavoritesService;
 
 /**
  * CourseFavorites管理接口
- * @author www.inxedu.com
+ *
  */
 @Service("courseFavoritesService")
 public class CourseFavoritesServiceImpl implements CourseFavoritesService {

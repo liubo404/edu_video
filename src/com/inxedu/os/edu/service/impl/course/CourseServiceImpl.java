@@ -19,7 +19,7 @@ import com.inxedu.os.edu.service.course.CourseService;
 
 /**
  * Course管理接口
- * @author www.inxedu.com
+ *
  */
 @Service("courseService")
 public class CourseServiceImpl implements CourseService {

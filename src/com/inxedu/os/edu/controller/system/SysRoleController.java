@@ -26,7 +26,7 @@ import com.inxedu.os.edu.service.system.SysFunctionService;
 import com.inxedu.os.edu.service.system.SysRoleService;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Controller

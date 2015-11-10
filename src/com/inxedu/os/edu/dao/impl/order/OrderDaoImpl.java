@@ -12,7 +12,7 @@ import com.inxedu.os.edu.entity.order.Order;
 import com.inxedu.os.edu.entity.order.QueryOrder;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Repository("orderDao")

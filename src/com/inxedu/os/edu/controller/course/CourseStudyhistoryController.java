@@ -25,7 +25,7 @@ import com.inxedu.os.edu.service.course.CourseStudyhistoryService;
 
 /**
  * CourseStudyhistory Controller
- * @author www.inxedu.com
+ *
  */
 @Controller
 public class CourseStudyhistoryController extends BaseController{

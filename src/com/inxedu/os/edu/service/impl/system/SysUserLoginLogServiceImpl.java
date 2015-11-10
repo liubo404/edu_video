@@ -11,7 +11,7 @@ import com.inxedu.os.edu.entity.system.SysUserLoginLog;
 import com.inxedu.os.edu.service.system.SysUserLoginLogService;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Service("sysUserLoginLogService")

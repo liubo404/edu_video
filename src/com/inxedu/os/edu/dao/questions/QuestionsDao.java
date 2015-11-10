@@ -7,7 +7,7 @@ import org.springframework.common.entity.PageEntity;
 import com.inxedu.os.edu.entity.questions.Questions;
 /**
  * questions管理接口
- * @author www.inxedu.com
+ *
  */
 public interface QuestionsDao {
 

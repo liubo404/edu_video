@@ -2,7 +2,7 @@ package com.inxedu.os.edu.constants.enums;
 
 /**
  * 订单状态
- * @author www.inxedu.com
+ *
  */
 public enum OrderState {
 	SUCCESS,//已支付

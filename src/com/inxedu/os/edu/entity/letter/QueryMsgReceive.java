@@ -14,7 +14,7 @@ import lombok.EqualsAndHashCode;
  * @ClassName com.yizhilu.os.core.entity.letter.QueryMsgReceive
  * @description 站内信查询类
  * @Create Date : 2013-12-13 下午12:45:28
- * @author www.inxedu.com
+ *
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

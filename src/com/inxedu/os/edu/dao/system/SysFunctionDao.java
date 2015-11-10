@@ -6,7 +6,7 @@ import java.util.Map;
 import com.inxedu.os.edu.entity.system.SysFunction;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 public interface SysFunctionDao {

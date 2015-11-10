@@ -11,7 +11,7 @@ import com.inxedu.os.edu.entity.website.WebsiteCourseDetailDTO;
 
 /**
  * 课程推荐关联接口
- * @author www.inxedu.com
+ *
  */
 public interface WebsiteCourseDetailService {
 	/**

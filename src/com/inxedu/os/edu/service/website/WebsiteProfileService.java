@@ -7,7 +7,7 @@ import com.inxedu.os.edu.entity.website.WebsiteProfile;
 
 /**
  * service
- * @author www.inxedu.com
+ *
  */
 public interface WebsiteProfileService {
 	/**

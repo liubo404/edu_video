@@ -2,7 +2,7 @@ package com.inxedu.os.edu.constants.enums;
 
 /**
  * 课程数量的类型。为添加时不出错
- *  @author www.inxedu.com
+ *
  */
 public enum CourseProfileType {
     buycount,//购买数量

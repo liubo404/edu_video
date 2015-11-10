@@ -2,6 +2,9 @@ $(function() {
 	cssNavigation();
 	showUserInfo();
 	queryUnReadNum();// 查询未读消息
+	setTimeout(function(){
+		$("section:last").remove();
+	},300);
 });
 
 /**

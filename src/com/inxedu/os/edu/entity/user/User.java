@@ -7,7 +7,7 @@ import lombok.Data;
 
 /**
  * 学员
- * @author www.inxedu.com
+ *
  */
 @Data
 public class User implements Serializable{

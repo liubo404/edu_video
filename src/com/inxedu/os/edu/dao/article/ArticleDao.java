@@ -11,7 +11,7 @@ import com.inxedu.os.edu.entity.article.QueryArticle;
 
 /**
  * 文章DAO层接口
- * @author www.inxedu.com
+ *
  */
 public interface ArticleDao {
 	

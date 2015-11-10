@@ -14,7 +14,7 @@ import com.inxedu.os.edu.entity.letter.QueryMsgReceive;
  * @ClassName com.yizhilu.os.sns.service.letter.MsgReceiveService
  * @description 站内信的service
  * @Create Date : 2014-1-26 下午1:53:16
- * @author www.inxedu.com
+ *
  */
 public interface MsgReceiveService {
     

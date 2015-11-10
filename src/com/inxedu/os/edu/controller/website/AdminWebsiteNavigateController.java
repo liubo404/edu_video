@@ -26,7 +26,7 @@ import com.inxedu.os.edu.service.website.WebsiteNavigateService;
 /**
  * 
  * 导航管理
- * @author www.inxedu.com
+ *
  */
 @Controller
 @RequestMapping("/admin")

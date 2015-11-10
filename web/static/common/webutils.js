@@ -9,7 +9,8 @@ var uploadServerUrl="";//上传服务用服务器地址
  * @returns true登录 false未登录
  */
 function isLogin(){
-	var is = false;
+	//var is = false;// todo
+	var is = true;// todo
 	var user = getLoginUser();
 	if(user!=null && user.userId>0){
 		is=true;

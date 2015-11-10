@@ -5,7 +5,7 @@ import java.util.List;
 import com.inxedu.os.edu.entity.system.SysFunction;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 public interface SysFunctionService {

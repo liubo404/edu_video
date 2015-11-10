@@ -10,7 +10,7 @@ import com.inxedu.os.edu.entity.website.WebSiteImagesType;
 import com.inxedu.os.edu.service.website.WebSiteImagesTypeService;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Service("webSiteImagesTypeService")

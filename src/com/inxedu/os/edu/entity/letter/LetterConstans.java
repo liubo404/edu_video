@@ -5,7 +5,7 @@ package com.inxedu.os.edu.entity.letter;
  * @ClassName com.yizhilu.os.sns.entity.constans.LetterConstans
  * @description 站内信常量
  * @Create Date : 2014-3-26 上午9:59:09
- * @author www.inxedu.com
+ *
  */
 public class LetterConstans {
     /**

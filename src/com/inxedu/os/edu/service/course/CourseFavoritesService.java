@@ -10,7 +10,7 @@ import com.inxedu.os.edu.entity.course.FavouriteCourseDTO;
 
 /**
  * CourseFavorites管理接口
- * @author www.inxedu.com
+ *
  */
 public interface CourseFavoritesService {
 	/**

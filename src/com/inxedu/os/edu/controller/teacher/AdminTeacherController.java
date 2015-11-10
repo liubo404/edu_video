@@ -29,7 +29,7 @@ import com.inxedu.os.edu.service.teacher.TeacherService;
 
 /**
  * 教师管理
- * @author www.inxedu.com
+ *
  */
 @Controller
 @RequestMapping("/admin")

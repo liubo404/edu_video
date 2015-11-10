@@ -10,7 +10,7 @@ import lombok.Data;
 
 /**
  * 问答
- * @author www.inxedu.com
+ *
  */
 @Data
 public class Questions implements Serializable {

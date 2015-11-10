@@ -27,7 +27,7 @@ import com.inxedu.os.edu.service.website.WebsiteImagesService;
 
 /**
  *广告图管理
- *@author www.inxedu.com
+ *
  */
 @Controller
 @RequestMapping("/admin")

@@ -8,7 +8,7 @@ import com.inxedu.os.edu.entity.kpoint.CourseKpointDto;
 
 /**
  * CourseKpoint管理接口
- * @author www.inxedu.com
+ *
  */
 public interface CourseKpointService {
 

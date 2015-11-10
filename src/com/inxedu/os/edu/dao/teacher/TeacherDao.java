@@ -11,7 +11,7 @@ import com.inxedu.os.edu.entity.teacher.Teacher;
 
 /**
  * 教师dao层接口
- * @author www.inxedu.com
+ *
  */
 public interface TeacherDao {
 

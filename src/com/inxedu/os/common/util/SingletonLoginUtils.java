@@ -11,7 +11,7 @@ import com.inxedu.os.edu.entity.system.SysUser;
 import com.inxedu.os.edu.entity.user.User;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 public class SingletonLoginUtils {

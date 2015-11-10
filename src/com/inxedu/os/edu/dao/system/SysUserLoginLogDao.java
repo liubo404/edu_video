@@ -7,7 +7,7 @@ import org.springframework.common.entity.PageEntity;
 import com.inxedu.os.edu.entity.system.SysUserLoginLog;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 public interface SysUserLoginLogDao {

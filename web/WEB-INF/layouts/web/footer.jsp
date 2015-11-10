@@ -36,10 +36,11 @@
 						<img src="<%=staticImage%>${image.imagesUrl}" alt="">
 						</c:if>
 					</c:forEach>
+
 					</div>
 				</section>
 				<section class="gf-tx">
-					<span><img src="${ctx}/static/inxweb/img/wb-icon.png" alt=""></span>
+					<a href="http://weibo.com/hkmum" target="_blank"><span><img src="${ctx}/static/inxweb/img/wb-icon.png" alt=""></span></a>
 					<div class="gf-tx-ewm">
 					<c:forEach var="image" items="${websiteImages.type_11}" varStatus="status">
 						<c:if test="${status.count==2 }">
@@ -58,11 +59,11 @@
 		<li id="goTopBtn" class="undis"><a href="javascript: void(0)" title="返回顶部" class="bg-orange">
 				<em class="r-f-icon-3">&nbsp;</em><span>返回顶部</span>
 			</a></li>
-		<li><a href="" title="在线咨询" class="bg-orange">
+	<%--	<li><a href="" title="在线咨询" class="bg-orange">
 				<em class="r-f-icon-1">&nbsp;</em><span>在线咨询</span>
-			</a></li>
-		<li><a href="" title="扫描关注" class="bg-orange">
+			</a></li>--%>
+		<%--<li><a href="" title="扫描关注" class="bg-orange">
 				<em class="r-f-icon-2">&nbsp;</em><span>扫描关注</span>
-			</a></li>
+			</a></li>--%>
 	</ul>
 </div>

@@ -7,7 +7,7 @@ import java.util.List;
 import lombok.Data;
 /**
  * 问答评论
- *@author www.inxedu.com
+ *
  */
 @Data
 public class QuestionsComment implements Serializable {

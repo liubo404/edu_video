@@ -14,7 +14,7 @@ import com.inxedu.os.edu.service.questions.QuestionsTagService;
 
 /**
  * 专业service实现
- * @author www.inxedu.com
+ *
  */
 @Service("questionsTagService")
 public class QuestionsTagServiceImpl implements QuestionsTagService {

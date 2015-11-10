@@ -5,7 +5,7 @@ import java.io.Serializable;
 import lombok.Data;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Data

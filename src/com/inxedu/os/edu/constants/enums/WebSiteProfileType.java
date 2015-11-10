@@ -1,7 +1,7 @@
 package com.inxedu.os.edu.constants.enums;
 /**
  * 网站管理常量
- * @author www.inxedu.com
+ *
  */
 public enum WebSiteProfileType {
     web,//网站常规配置

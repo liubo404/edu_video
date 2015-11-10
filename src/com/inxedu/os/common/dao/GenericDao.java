@@ -6,7 +6,7 @@ import org.springframework.common.entity.PageEntity;
 
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 public abstract interface GenericDao extends org.springframework.dao.GenericDao{

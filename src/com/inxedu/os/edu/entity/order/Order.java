@@ -10,7 +10,7 @@ import lombok.Data;
 
 /**
  * 课程订单
- * @author www.inxedu.com
+ *
  */
 @Data
 public class Order implements Serializable{

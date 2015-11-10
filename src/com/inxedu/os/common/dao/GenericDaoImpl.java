@@ -12,7 +12,7 @@ import org.springframework.common.entity.PageOL;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Repository("genericDao")

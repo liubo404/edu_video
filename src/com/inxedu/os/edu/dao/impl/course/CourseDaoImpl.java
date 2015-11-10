@@ -14,7 +14,7 @@ import com.inxedu.os.edu.entity.course.CourseDto;
 import com.inxedu.os.edu.entity.course.QueryCourse;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Repository("courseDao")

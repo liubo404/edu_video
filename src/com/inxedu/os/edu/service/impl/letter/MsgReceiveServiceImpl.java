@@ -33,7 +33,7 @@ import com.inxedu.os.edu.service.user.UserService;
  * @package com.yizhilu.open.sns.service.impl.letter
  * @description 站内信的实现
  * @Create Date: 2013-12-10 下午4:14:32
- * @author www.inxedu.com
+ *
  */
 @Service("msgReceiveService")
 public class MsgReceiveServiceImpl implements MsgReceiveService {

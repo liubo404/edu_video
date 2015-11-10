@@ -1,10 +1,6 @@
 @charset "utf-8";
 /*
-	power by http://www.inxedu.com/
-	v1.0 | 2015/06/06 
- 	-----------------------------------------
-	westdrug | 2015(yy)/08(mm)/05(dd) 
-	http://www.inxedu.com/
+
 */
 /* #custom
 ================================================== */
@@ -278,7 +274,7 @@ a.current-2 .lh-p-icon {background-position: 0 -254px;}
 .paging a.undisable:hover {border: 1px solid #ccc;border-radius: 40%;color: #666;}
 .paging a:hover,.paging a.current {border-radius: 50%;text-decoration: none;}
 /*========== dialog ==========*/
-.bMask {background: #000;opacity: 0.3;filter: alpha(opacity=30);position: fixed;height: 100%;width: 100%;top: 0;right: 0:bottom: 0;left: 0;z-index: 99999;}
+.bMask {background: #000;opacity: 0.3;filter: alpha(opacity=30);position: fixed;height: 100%;width: 100%;top: 0;right: 0;bottom: 0;left: 0;z-index: 99999;}
 .dialogWrap {background: #fff;position: absolute;left: 50%;transition:all 0.3s ease 0s;z-index: 9999999;}
 .d-s-head,.d-s-head-infor {border-bottom: 1px solid #e2e2e2;height: 40px;line-height: 40px;padding: 0 15px;width: 100%;}
 .d-s-head-txt,.d-s-head-txt-infor {color: #333;font-size: 16px;}

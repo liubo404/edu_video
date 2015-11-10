@@ -27,7 +27,7 @@ import com.inxedu.os.edu.entity.article.QueryArticle;
 import com.inxedu.os.edu.service.article.ArticleService;
 
 /**
- * @author www.inxedu.com
+ *
  *
  */
 @Controller

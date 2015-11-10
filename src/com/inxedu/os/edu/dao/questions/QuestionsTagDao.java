@@ -7,7 +7,7 @@ import com.inxedu.os.edu.entity.questions.QuestionsTag;
 
 /**
  * 问答标签dao层接口
- * @author www.inxedu.com
+ *
  */
 public interface QuestionsTagDao {
 	/**

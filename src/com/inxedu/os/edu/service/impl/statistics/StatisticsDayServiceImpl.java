@@ -27,7 +27,7 @@ import com.inxedu.os.edu.service.website.WebsiteProfileService;
 
 /**
  * StatisticsDayDay管理接口
- * @author www.inxedu.com
+ *
  */
 @Service("statisticsDayService")
 public class StatisticsDayServiceImpl implements StatisticsDayService{

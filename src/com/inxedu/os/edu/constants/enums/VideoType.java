@@ -2,7 +2,7 @@ package com.inxedu.os.edu.constants.enums;
 
 /**
  *  课程销售方式
- *  @author www.inxedu.com
+ *
  */
 public enum VideoType {
     CC,//cc视频

@@ -58,7 +58,7 @@ import com.inxedu.os.edu.service.website.WebsiteProfileService;
 
 /**
  * 个人中心  Controller
- * @author www.inxedu.com
+ *
  */
 @Controller
 @RequestMapping("/uc")

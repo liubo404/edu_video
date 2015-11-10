@@ -6,7 +6,7 @@ import lombok.Data;
 
 /**
  * 文章内容
- * @author www.inxedu.com
+ *
  */
 @Data
 public class ArticleContent implements Serializable{
