@@ -28,7 +28,7 @@
 <body>
 	<div id="container">
 		<div class="logo">
-			<a href="http://demo1.inxedu.com/" target="_blank" title="">
+			<a href="${ctx}" target="_blank" title="">
 				<img src="${ctx}/static/admin/assets/logo.png" width="200" alt="" />
 			</a>
 		</div>

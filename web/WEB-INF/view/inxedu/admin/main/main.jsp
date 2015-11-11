@@ -56,7 +56,7 @@
 				<div id="top">
 					<!-- Logo -->
 					<div class="logo">
-						<a href="http://demo1.inxedu.com/" target="_blank" title="" class="tooltip">
+						<a href="${ctx}" target="_blank" title="" class="tooltip">
 							<img src="${ctx}/static/admin/assets/logo.png" height="60" alt="" />
 						</a>
 					</div>
