@@ -45,6 +45,7 @@
              <mvc:mapping path="/uc/*"/>
              <mvc:mapping path="/uc/**/*"/>
              <mvc:exclude-mapping path="/uc/tologin"/>
+             <mvc:exclude-mapping path="/uc/play/*"/><!-- 放开观看权限 -->
              <mvc:exclude-mapping path="/uc/getloginUser"/>
              <mvc:exclude-mapping path="/uc/register"/>
              <mvc:exclude-mapping path="/uc/createuser"/>

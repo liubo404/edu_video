@@ -178,7 +178,12 @@
 								<a title="精彩评论" href="javascript:void(0);" onclick="comment(2,this)">精彩评论</a>
 							</section>
 						</div>
-						<article class="ml10 mr10 commentHtml"></article>
+						<article class="ml10 mr10 <%--commentHtml--%>">
+							<%--关闭的评论系统--%>
+							<section class="no-data-wrap">
+								<em class="icon30 no-data-ico">&nbsp;</em> <span class="c-666 fsize14 ml10 vam">好像还木有评论哦~</span>
+							</section>
+						</article>
 					</div>
 				</section>
 			</article>

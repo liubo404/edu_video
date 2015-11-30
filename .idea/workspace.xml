@@ -2,10 +2,99 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45a8cc9a-8002-4523-a0f0-83307f8fc5ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.jms.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.resource.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151110/1447139524834.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151121/1448098275847.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151121/1448098318929.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151121/1448098348640.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151121/1448098375400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151121/1448098631456.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151121/1448098665000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151121/1448098734207.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151121/1448098831427.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151121/1448098864783.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151126/1448522315814.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151126/1448522703197.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151126/1448522714089.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151126/1448522728207.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151126/1448522744414.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151126/1448522753306.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151126/1448522767404.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151126/1448522776494.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151126/1448522787584.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151126/1448522796930.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151126/1448522805886.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151126/1448522813065.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448589844065.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448590398449.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448590651630.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448594528058.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448604055678.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448605148833.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448608214389.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448608348427.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448608376036.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448608433351.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448608791011.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448609394601.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448609417191.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448609467264.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448609492005.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448609518860.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448609628344.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448609715661.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448609749515.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448609806656.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448612211180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448612224751.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448613098686.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151127/1448614416390.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151130/1448849717746.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/course/20151130/1448849723842.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/image/20151110/1447123888642.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/image/20151110/1447123893987.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/image/20151111/1447221782741.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/image/20151111/1447221785155.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/image/20151111/1447221794653.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/image/20151111/1447221796327.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/image/20151111/1447222075375.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/image/20151111/1447222077297.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/image/20151111/1447222084502.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/image/20151111/1447222086265.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151121/1448098981062.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151121/1448099084451.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151121/1448099106988.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151121/1448099149300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151121/1448099236783.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151127/1448588705810.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151127/1448590973048.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151127/1448594031856.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151127/1448594049336.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151127/1448603081564.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151127/1448605772631.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151127/1448611936877.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151127/1448612781576.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151127/1448614203041.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151127/1448615210123.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151127/1448615489287.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151127/1448615535458.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151127/1448615660127.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/upload/teacher/20151130/1448849147188.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/images/upload/websiteLogo/20150820/1440035056371.png" afterPath="$PROJECT_DIR$/web/images/upload/websiteLogo/20150820/1440035056371.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/static/admin/assets/logo.png" afterPath="$PROJECT_DIR$/web/static/admin/assets/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/view/inxedu/admin/main/login.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/view/inxedu/admin/main/login.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/view/inxedu/admin/main/main.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/view/inxedu/admin/main/main.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/project.properties" afterPath="$PROJECT_DIR$/src/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/spring-mvc.xml" afterPath="$PROJECT_DIR$/src/spring-mvc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/view/inxedu/web/ucenter/player-video.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/view/inxedu/web/ucenter/player-video.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weizy_edu.iml" afterPath="$PROJECT_DIR$/weizy_edu.iml" />
     </list>
     <ignored path="weizy_edu.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -19,6 +108,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CodeExplorer">
+    <option name="filters">
+      <list>
+        <LibraryFilter />
+      </list>
+    </option>
+    <option name="showMethodBody" value="true" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -27,13 +124,156 @@
     <favorites_list name="weizy_edu" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="default.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/layouts/web/default.jsp">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SysUserMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mybatis/simple/system/SysUserMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.75584793">
-              <caret line="116" column="7" selection-start-line="116" selection-start-column="7" selection-end-line="116" selection-end-column="7" />
+            <state vertical-scroll-proportion="-0.6896552">
+              <caret line="46" column="28" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="28" />
+              <folding>
+                <marker date="1446693998000" expanded="true" signature="1429:1534" placeholder="INSERT INTO SYS_USER..." />
+                <marker date="1446693998000" expanded="true" signature="1633:1806" placeholder="UPDATE SYS_U..." />
+                <marker date="1446693998000" expanded="true" signature="1919:2001" placeholder="UPDATE SYS_U..." />
+                <marker date="1446693998000" expanded="true" signature="2136:2223" placeholder="SELECT FROM ..SYS_USER..." />
+                <marker date="1446693998000" expanded="true" signature="2364:2680" placeholder="SELECT FROM ..SYS_USER..." />
+                <marker date="1446693998000" expanded="true" signature="3227:3291" placeholder="SELECT COUNT..SYS_USER..." />
+                <marker date="1446693998000" expanded="true" signature="3419:3553" placeholder="SELECT FROM ..SYS_USER..." />
+                <marker date="1446693998000" expanded="true" signature="3654:3737" placeholder="UPDATE SYS_U..." />
+                <marker date="1446693998000" expanded="true" signature="3858:4034" placeholder="update SYS_U..." />
+                <marker date="1446693998000" expanded="true" signature="4154:4274" placeholder="UPDATE SYS_U..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CourseFavoritesMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mybatis/simple/course/CourseFavoritesMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.6896552">
+              <caret line="30" column="36" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="36" />
+              <folding>
+                <marker date="1446693998000" expanded="true" signature="1056:1200" placeholder="INSERT INTO EDU_COURSE_FAVORITES..." />
+                <marker date="1446693998000" expanded="true" signature="1293:1350" placeholder="DELETE FROM ..." />
+                <marker date="1446693998000" expanded="true" signature="1462:1553" placeholder="SELECT COUNT..EDU_COURSE_FAVORITES..." />
+                <marker date="1446693998000" expanded="true" signature="1693:1968" placeholder="SELECT EDU_C..EDU_COURSE_FAVORITES..." />
+                <marker date="1446693998000" expanded="true" signature="2108:2267" placeholder="SELECT COUNT..EDU_COURSE_FAVORITES..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/project.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7659575">
+              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CourseKpointMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mybatis/simple/course/CourseKpointMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.6896552">
+              <caret line="55" column="37" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="37" />
+              <folding>
+                <marker date="1446693998000" expanded="true" signature="1699:1833" placeholder="INSERT INTO EDU_COURSE_KPOINT..." />
+                <marker date="1446693998000" expanded="true" signature="1959:2116" placeholder="SELECT FROM ..EDU_COURSE_KPOINT..." />
+                <marker date="1446693998000" expanded="true" signature="2245:2871" placeholder="SELECT EDU_C..EDU_COURSE_KPOINT..." />
+                <marker date="1446693998000" expanded="true" signature="2960:3400" placeholder="UPDATE EDU_C..." />
+                <marker date="1446693998000" expanded="true" signature="3498:3574" placeholder="DELETE FROM ..." />
+                <marker date="1446693998000" expanded="true" signature="3677:3791" placeholder="UPDATE EDU_C..." />
+                <marker date="1446693998000" expanded="true" signature="3909:4044" placeholder="SELECT IFNUL..edu_course_kpoint..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CourseMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mybatis/simple/course/CourseMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.103448">
+              <caret line="183" column="41" selection-start-line="183" selection-start-column="41" selection-end-line="183" selection-end-column="41" />
+              <folding>
+                <marker date="1446693998000" expanded="true" signature="3566:3676" placeholder="INSERT INTO EDU_COURSE..." />
+                <marker date="1446693998000" expanded="true" signature="5926:6022" placeholder="SELECT FROM ..EDU_COURSE..." />
+                <marker date="1446693998000" expanded="true" signature="6105:6721" placeholder="UPDATE EDU_C..." />
+                <marker date="1446693998000" expanded="true" signature="6821:6913" placeholder="UPDATE EDU_C..." />
+                <marker date="1446693998000" expanded="true" signature="7029:7340" placeholder="SELECT FROM ..EDU_WEBSITE_COURSE_DETAIL..." />
+                <marker date="1446693998000" expanded="true" signature="10666:10911" placeholder="SELECT FROM ..EDU_COURSE..." />
+                <marker date="1446693998000" expanded="true" signature="11050:11231" placeholder="SELECT COUNT..EDU_COURSE..." />
+                <marker date="1446693998000" expanded="true" signature="11802:11833" placeholder="SELECT COUNT..EDU_COURSE..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TeacherMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mybatis/simple/teacher/TeacherMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.6896552">
+              <caret line="47" column="31" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="31" />
+              <folding>
+                <marker date="1446693998000" expanded="true" signature="1393:1523" placeholder="INSERT INTO EDU_TEACHER..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserLoginLogMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mybatis/simple/user/UserLoginLogMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.551724">
+              <caret line="28" column="38" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="38" />
+              <folding>
+                <marker date="1446693998000" expanded="true" signature="1001:1133" placeholder="INSERT INTO EDU_USER_LOGIN_LOG..." />
+                <marker date="1446693998000" expanded="true" signature="1242:1403" placeholder="SELECT FROM ..EDU_USER_LOGIN_LOG..." />
+                <marker date="1446693998000" expanded="true" signature="1543:1620" placeholder="SELECT COUNT..EDU_USER_LOGIN_LOG..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mybatis/simple/user/UserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.6896552">
+              <caret line="69" column="33" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="33" />
+              <folding>
+                <marker date="1446693998000" expanded="true" signature="1672:1773" placeholder="INSERT INTO EDU_USER..." />
+                <marker date="1446693998000" expanded="true" signature="1884:1971" placeholder="SELECT FROM ..EDU_USER..." />
+                <marker date="1446693998000" expanded="true" signature="2082:2142" placeholder="SELECT COUNT..EDU_USER..." />
+                <marker date="1446693998000" expanded="true" signature="2253:2312" placeholder="SELECT COUNT..EDU_USER..." />
+                <marker date="1446693998000" expanded="true" signature="2434:2589" placeholder="SELECT FROM ..EDU_USER..." />
+                <marker date="1446693998000" expanded="true" signature="2671:2756" placeholder="UPDATE EDU_U..." />
+                <marker date="1446693998000" expanded="true" signature="4465:4552" placeholder="UPDATE EDU_U..." />
+                <marker date="1446693998000" expanded="true" signature="4631:4794" placeholder="UPDATE EDU_U..." />
+                <marker date="1446693998000" expanded="true" signature="4872:4954" placeholder="UPDATE EDU_U..." />
+                <marker date="1446693998000" expanded="true" signature="5049:5116" placeholder="UPDATE EDU_U..." />
+                <marker date="1446693998000" expanded="true" signature="5201:5230" placeholder="SELECT COUNT..EDU_USER..." />
+                <marker date="1446693998000" expanded="true" signature="5367:5470" placeholder="SELECT FROM ..EDU_USER..." />
+                <marker date="1446693998000" expanded="true" signature="5933:6105" placeholder="update EDU_U..." />
+                <marker date="1446693998000" expanded="true" signature="6212:6288" placeholder="update EDU_U..." />
+                <marker date="1446693998000" expanded="true" signature="6391:6460" placeholder="update EDU_U..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebsiteCourseDetailMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mybatis/simple/website/WebsiteCourseDetailMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.6896552">
+              <caret line="40" column="41" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="41" />
+              <folding>
+                <marker date="1446693998000" expanded="true" signature="1415:1522" placeholder="INSERT INTO EDU_WEBSITE_COURSE_DETAIL..." />
+                <marker date="1446693998000" expanded="true" signature="1667:2291" placeholder="SELECT FROM ..EDU_WEBSITE_COURSE_DETAIL..." />
+                <marker date="1446693998000" expanded="true" signature="3064:3119" placeholder="DELETE FROM ..." />
+                <marker date="1446693998000" expanded="true" signature="3214:3279" placeholder="DELETE FROM ..." />
+                <marker date="1446693998000" expanded="true" signature="3370:3439" placeholder="UPDATE EDU_W..." />
+                <marker date="1446693998000" expanded="true" signature="3556:3673" placeholder="SELECT FROM ..EDU_WEBSITE_COURSE_DETAIL..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,7 +295,6 @@
         <option value="$PROJECT_DIR$/web/base.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/classes/project.properties" />
         <option value="$PROJECT_DIR$/src/com/inxedu/os/common/constants/CacheConstans.java" />
-        <option value="$PROJECT_DIR$/src/project.properties" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/web/WEB-INF/view/inxedu/web/front/index.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/view/inxedu/web/course/course-infor.jsp" />
@@ -64,14 +303,15 @@
         <option value="$PROJECT_DIR$/web/static/inxweb/css/global_source.css" />
         <option value="$PROJECT_DIR$/web/static/inxweb/css/global.css" />
         <option value="$PROJECT_DIR$/web/WEB-INF/layouts/web/header.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/layouts/web/default.jsp" />
         <option value="$PROJECT_DIR$/web/static/inxweb/header/header.js" />
         <option value="$PROJECT_DIR$/web/WEB-INF/layouts/web/footer.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/view/inxedu/web/ucenter/player-video.jsp" />
-        <option value="$PROJECT_DIR$/src/spring-mvc.xml" />
         <option value="$PROJECT_DIR$/web/static/common/webutils.js" />
         <option value="$PROJECT_DIR$/web/WEB-INF/view/inxedu/admin/main/login.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/view/inxedu/admin/main/main.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/layouts/web/default.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/view/inxedu/web/ucenter/player-video.jsp" />
+        <option value="$PROJECT_DIR$/src/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/src/project.properties" />
       </list>
     </option>
   </component>
@@ -80,10 +320,17 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
+        <option name="mavenHome" value="C:/apache-maven-3.2.5" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -121,9 +368,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -170,7 +414,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -188,15 +432,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -214,19 +454,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
+              <option name="myItemId" value="admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uc" />
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -244,11 +480,67 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="websiteLogo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20150820" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weizy_edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weizy_edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weizy_edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weizy_edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -266,8 +558,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weizy_edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weizy_edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,23 +590,27 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.14834794" />
     <property name="project.structure.side.proportion" value="0.49253732" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
-    <property name="SearchEverywhereHistoryKey" value="setting&#9;ACTION&#9;Database.Settings&#10;settings&#9;ACTION&#9;Database.Settings&#10;plugins&#9;ACTION&#9;WelcomeScreen.Plugins" />
-    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="ftp&#9;ACTION&#9;FindPrevious&#10;plugins&#9;ACTION&#9;WelcomeScreen.Plugins&#10;settings&#9;ACTION&#9;Database.Settings&#10;setting&#9;ACTION&#9;Database.Settings" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\workspace\weizy_edu" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\workspace\weizy_edu\web\WEB-INF" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\lohas\javawork\weizy_edu\web\images\upload\websiteLogo\20150820" />
+      <recent name="C:\workspace\weizy_edu" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 7">
@@ -539,6 +856,16 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -616,6 +943,9 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="weizy_edu" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -702,6 +1032,18 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
       <method />
     </configuration>
@@ -709,6 +1051,8 @@
       <method />
     </configuration>
     <configuration default="false" name="Tomcat 7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7_copy" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=utf8" />
       <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
       <deployment>
         <artifact name="weizy_edu:war exploded">
@@ -719,7 +1063,6 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Tomcat_7_weizy_edu" />
-        <option name="HTTP_PORT" value="9080" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -797,12 +1140,17 @@
       <updated>1447060417904</updated>
       <workItem from="1447060420627" duration="649000" />
       <workItem from="1447061097100" duration="25069000" />
-      <workItem from="1447209924927" duration="4000000" />
+      <workItem from="1447209924927" duration="16410000" />
+      <workItem from="1447640703676" duration="332000" />
+      <workItem from="1447641058253" duration="413000" />
+      <workItem from="1447641491404" duration="595000" />
+      <workItem from="1448867665205" duration="541000" />
+      <workItem from="1448868243782" duration="4314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29718000" />
+    <option name="totallyTimeSpent" value="48323000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -815,62 +1163,64 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.4974293" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4543011" sideWeight="0.7622108" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39381722" sideWeight="0.2377892" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Code explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.4974293" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39381722" sideWeight="0.2377892" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44623655" sideWeight="0.48971722" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.375" sideWeight="0.7622108" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21774194" sideWeight="0.48971722" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.4974293" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39381722" sideWeight="0.2377892" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3844086" sideWeight="0.48971722" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39381722" sideWeight="0.7622108" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39381722" sideWeight="0.2377892" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39381722" sideWeight="0.7622108" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.4974293" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3844086" sideWeight="0.48971722" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -895,275 +1245,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/static/inxweb/front/index_theme_color.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/inxedu/os/common/controller/ImageUploadController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weizy_edu.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06404658">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/inxedu/web/front/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.8688526">
-          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/inxweb/comment/comment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/inxedu/web/comment/comment.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.612903">
-          <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/inxedu/admin/main/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.774194">
-          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/inxedu/os/edu/entity/system/SysRole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/inxweb/css/global_source.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.354839">
-          <caret line="276" column="121" selection-start-line="276" selection-start-column="121" selection-end-line="276" selection-end-column="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/inxweb/css/mw_320_768.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8644068">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/inxweb/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="7.3109756">
-          <caret line="10" column="21648" selection-start-line="10" selection-start-column="21648" selection-end-line="10" selection-end-column="21648" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/inxweb/css/reset_source.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.32258">
-          <caret line="43" column="58" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/inxweb/css/theme.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/inxweb/css/less/theme.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/inxweb/front/course.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/base.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.4838705">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/javax/print/attribute/standard/PrinterStateReason.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33286715">
-          <caret line="116" column="7" selection-start-line="116" selection-start-column="7" selection-end-line="116" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/inxedu/os/app/controller/article/AppArticleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="92" column="36" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/decorators.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.774194">
-          <caret line="24" column="50" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/layouts/web/uc/default_uc.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="23.35484">
-          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/sitemesh-2.5.jar!/META-INF/sitemesh-decorator.tld">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.677419">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/inxedu/os/common/intercepter/LimitIntercepterForWebsite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/sitemesh-2.5.jar!/com/opensymphony/sitemesh/SiteMeshContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12809315">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/layouts/web/header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.451612">
-          <caret line="120" column="30" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/inxweb/header/header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/inxweb/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4">
-          <caret line="448" column="17" selection-start-line="448" selection-start-column="9" selection-end-line="448" selection-end-column="17" />
-          <folding>
-            <marker date="1446693997747" expanded="true" signature="11460:11479" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/layouts/web/footer.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.290322">
-          <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/inxedu/web/ucenter/player-video.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.354839">
-          <caret line="173" column="39" selection-start-line="173" selection-start-column="39" selection-end-line="173" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spring-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.7118645">
-          <caret line="46" column="54" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/inxedu/web/course/course-infor.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.677419">
-          <caret line="74" column="93" selection-start-line="74" selection-start-column="93" selection-end-line="74" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/common/webutils.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/inxedu/admin/main/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.774194">
-          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/inxedu/admin/main/main.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-30.516129">
-          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/UserAgentUtils-1.2.4.jar!/nl/bitwalker/useragentutils/Version.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="37.035713">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/UserAgentUtils-1.2.4.jar!/nl/bitwalker/useragentutils/UserAgent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.78571427">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/UserAgentUtils-1.2.4.jar!/nl/bitwalker/useragentutils/RenderingEngine.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.428572">
@@ -1206,147 +1287,644 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/project.properties">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/inxedu/web/ucenter/player-video.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <caret line="185" column="34" selection-start-line="185" selection-start-column="34" selection-end-line="185" selection-end-column="34" />
+          <folding>
+            <element signature="n#c:if#0;n#jsp:root#0;n#!!top" expanded="false" />
+            <element signature="n#c:if#1;n#jsp:root#0;n#!!top" expanded="false" />
+            <element signature="n#c:forEach#0;n#jsp:root#0;n#!!top" expanded="false" />
+            <element signature="n#c:if#0;n#c:forEach#0;n#jsp:root#0;n#!!top" expanded="false" />
+            <element signature="n#c:forEach#0;n#c:if#0;n#c:forEach#0;n#jsp:root#0;n#!!top" expanded="false" />
+            <element signature="e#6606#6743#0#JSP" expanded="false" />
+            <element signature="n#c:if#0;n#c:forEach#0;n#c:if#0;n#c:forEach#0;n#jsp:root#0;n#!!top" expanded="false" />
+            <element signature="n#c:if#1;n#c:forEach#0;n#jsp:root#0;n#!!top" expanded="false" />
+            <element signature="e#7571#7709#0#JSP" expanded="false" />
+            <element signature="n#c:if#0;n#c:if#1;n#c:forEach#0;n#jsp:root#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-3.2.12.RELEASE.jar!/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/layouts/web/default.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="102" column="22" selection-start-line="102" selection-start-column="22" selection-end-line="102" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/inxedu/os/common/intercepter/IntercepterWebLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/inxedu/os/edu/controller/system/SysUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21186441">
+          <caret line="150" column="17" selection-start-line="150" selection-start-column="17" selection-end-line="150" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/inxedu/os/common/util/WebUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/inxedu/os/edu/controller/comment/CommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/inxedu/os/common/util/SingletonLoginUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mybatis/simple/article/ArticleMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="27.67742">
-          <caret line="87" column="13" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
+        <state vertical-scroll-proportion="-11.931034">
+          <caret line="152" column="22" selection-start-line="152" selection-start-column="11" selection-end-line="152" selection-end-column="22" />
           <folding>
-            <marker date="1446693997861" expanded="true" signature="1781:1890" placeholder="INSERT INTO EDU_ARTICLE..." />
-            <marker date="1446693997861" expanded="true" signature="1986:2121" placeholder="INSERT INTO EDU_ARTICLE_CONTENT..." />
-            <marker date="1446693997861" expanded="true" signature="2206:2571" placeholder="UPDATE EDU_A..." />
-            <marker date="1446693997861" expanded="true" signature="2670:2792" placeholder="UPDATE EDU_A..." />
-            <marker date="1446693997861" expanded="true" signature="2889:2955" placeholder="DELETE FROM ..." />
-            <marker date="1446693997861" expanded="true" signature="3068:3150" placeholder="DELETE FROM ..." />
-            <marker date="1446693997861" expanded="true" signature="3264:3363" placeholder="SELECT FROM ..EDU_ARTICLE..." />
-            <marker date="1446693997861" expanded="true" signature="3498:3604" placeholder="SELECT EDU_A..EDU_ARTICLE_CONTENT..." />
-            <marker date="1446693997861" expanded="true" signature="3730:4412" placeholder="SELECT FROM ..EDU_ARTICLE..." />
-            <marker date="1446693997861" expanded="true" signature="4497:4777" placeholder="UPDATE EDU_A..." />
-            <marker date="1446693997861" expanded="true" signature="4886:5014" placeholder="UPDATE EDU_A..." />
-            <marker date="1446693997861" expanded="true" signature="5150:5253" placeholder="SELECT FROM ..EDU_ARTICLE..." />
-            <marker date="1446693997861" expanded="true" signature="5855:6188" placeholder="SELECT FROM ..EDU_ARTICLE..." />
-            <marker date="1446693997861" expanded="true" signature="6277:6309" placeholder="SELECT COUNT..EDU_ARTICLE..." />
+            <element signature="n#sql#1;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#sql#2;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#sql#3;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#resultMap#0;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#insert#0;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#insert#1;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#update#0;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#update#1;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#delete#0;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#delete#1;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#select#0;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#select#1;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#select#2;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#where#0;n#select#2;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#if#0;n#where#0;n#select#2;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#if#1;n#where#0;n#select#2;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#if#2;n#where#0;n#select#2;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#if#3;n#where#0;n#select#2;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#update#2;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#if#0;n#update#2;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#if#1;n#update#2;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#if#2;n#update#2;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#select#3;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#select#4;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#if#0;n#select#4;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#if#1;n#select#4;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#if#2;n#select#4;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#if#3;n#select#4;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#select#5;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#if#0;n#select#5;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#if#1;n#select#5;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#select#6;n#mapper#0;n#!!top" expanded="false" />
+            <marker date="1446693998000" expanded="false" signature="1781:1890" placeholder="INSERT INTO EDU_ARTICLE..." />
+            <marker date="1446693998000" expanded="false" signature="1986:2121" placeholder="INSERT INTO EDU_ARTICLE_CONTENT..." />
+            <marker date="1446693998000" expanded="false" signature="2206:2571" placeholder="UPDATE EDU_A..." />
+            <marker date="1446693998000" expanded="false" signature="2670:2792" placeholder="UPDATE EDU_A..." />
+            <marker date="1446693998000" expanded="false" signature="2889:2955" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="false" signature="3068:3150" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="false" signature="3264:3363" placeholder="SELECT FROM ..EDU_ARTICLE..." />
+            <marker date="1446693998000" expanded="false" signature="3498:3604" placeholder="SELECT EDU_A..EDU_ARTICLE_CONTENT..." />
+            <marker date="1446693998000" expanded="false" signature="3730:4412" placeholder="SELECT FROM ..EDU_ARTICLE..." />
+            <marker date="1446693998000" expanded="false" signature="4497:4777" placeholder="UPDATE EDU_A..." />
+            <marker date="1446693998000" expanded="true" signature="4886:5014" placeholder="UPDATE EDU_A..." />
+            <marker date="1446693998000" expanded="false" signature="5150:5253" placeholder="SELECT FROM ..EDU_ARTICLE..." />
+            <marker date="1446693998000" expanded="false" signature="5855:6188" placeholder="SELECT FROM ..EDU_ARTICLE..." />
+            <marker date="1446693998000" expanded="false" signature="6277:6309" placeholder="SELECT COUNT..EDU_ARTICLE..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mybatis/simple/course/CourseNoteMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="14.903226">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-15.862069">
+          <caret line="47" column="39" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="39" />
           <folding>
-            <marker date="1446693997862" expanded="true" signature="1838:1965" placeholder="insert INTO edu_course_note..." />
-            <marker date="1446693997862" expanded="true" signature="2061:2136" placeholder="delete from ..." />
-            <marker date="1446693997862" expanded="true" signature="2234:2556" placeholder="update edu_c..." />
-            <marker date="1446693997862" expanded="true" signature="2678:2820" placeholder="select from ..edu_course_note..." />
-            <marker date="1446693997862" expanded="true" signature="2950:3044" placeholder="select from ..edu_course_note..." />
-            <marker date="1446693997862" expanded="true" signature="3585:4805" placeholder="select , use..." />
-            <marker date="1446693997862" expanded="true" signature="6039:6148" placeholder="update edu_c..." />
-            <marker date="1446693997862" expanded="true" signature="6285:6692" placeholder="select , use..." />
-            <marker date="1446693997862" expanded="true" signature="6835:7300" placeholder="select , edu..." />
-            <marker date="1446693997862" expanded="true" signature="7468:7586" placeholder="select count..edu_course_note..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/course/CourseKpointMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="8.5161295">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1446693997861" expanded="true" signature="1699:1833" placeholder="INSERT INTO EDU_COURSE_KPOINT..." />
-            <marker date="1446693997861" expanded="true" signature="1959:2116" placeholder="SELECT FROM ..EDU_COURSE_KPOINT..." />
-            <marker date="1446693997861" expanded="true" signature="2245:2871" placeholder="SELECT EDU_C..EDU_COURSE_KPOINT..." />
-            <marker date="1446693997861" expanded="true" signature="2960:3400" placeholder="UPDATE EDU_C..." />
-            <marker date="1446693997861" expanded="true" signature="3498:3574" placeholder="DELETE FROM ..." />
-            <marker date="1446693997861" expanded="true" signature="3677:3791" placeholder="UPDATE EDU_C..." />
-            <marker date="1446693997861" expanded="true" signature="3909:4044" placeholder="SELECT IFNUL..edu_course_kpoint..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/course/CourseTeacherMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57894737">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <marker date="1446693997863" expanded="true" signature="569:662" placeholder="INSERT INTO EDU_COURSE_TEACHER..." />
-            <marker date="1446693997863" expanded="true" signature="753:808" placeholder="DELETE FROM ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/letter/MsgSystemMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8684211">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-          <folding>
-            <marker date="1446693997864" expanded="true" signature="918:1056" placeholder="INSERT INTO edu_msg_system..." />
-            <marker date="1446693997864" expanded="true" signature="1560:2042" placeholder="select from ..edu_msg_system..." />
-            <marker date="1446693997864" expanded="true" signature="2722:2774" placeholder="update edu_m..." />
-            <marker date="1446693997864" expanded="true" signature="3195:3291" placeholder="update edu_m..." />
+            <marker date="1446693998000" expanded="true" signature="1838:1965" placeholder="insert INTO edu_course_note..." />
+            <marker date="1446693998000" expanded="true" signature="2061:2136" placeholder="delete from ..." />
+            <marker date="1446693998000" expanded="true" signature="2234:2556" placeholder="update edu_c..." />
+            <marker date="1446693998000" expanded="true" signature="2678:2820" placeholder="select from ..edu_course_note..." />
+            <marker date="1446693998000" expanded="true" signature="2950:3044" placeholder="select from ..edu_course_note..." />
+            <marker date="1446693998000" expanded="true" signature="3585:4805" placeholder="select , use..." />
+            <marker date="1446693998000" expanded="true" signature="6039:6148" placeholder="update edu_c..." />
+            <marker date="1446693998000" expanded="true" signature="6285:6692" placeholder="select , use..." />
+            <marker date="1446693998000" expanded="true" signature="6835:7300" placeholder="select , edu..." />
+            <marker date="1446693998000" expanded="true" signature="7468:7586" placeholder="select count..edu_course_note..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mybatis/simple/course/CourseStudyhistoryMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3187134">
-          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        <state vertical-scroll-proportion="-6.724138">
+          <caret line="53" column="43" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="43" />
           <folding>
-            <marker date="1446693997862" expanded="true" signature="1836:2001" placeholder="insert INTO edu_course_studyhistory..." />
-            <marker date="1446693997862" expanded="true" signature="2081:2142" placeholder="delete from ..." />
-            <marker date="1446693997862" expanded="true" signature="2232:2518" placeholder="update edu_c..." />
-            <marker date="1446693997862" expanded="true" signature="2634:2749" placeholder="select from ..edu_course_studyhistory..." />
-            <marker date="1446693997862" expanded="true" signature="3511:4086" placeholder="select , edu..." />
-            <marker date="1446693997862" expanded="true" signature="4507:4565" placeholder="delete from ..." />
-            <marker date="1446693997862" expanded="true" signature="5181:5566" placeholder="select disti..edu_course_studyhistory..." />
-            <marker date="1446693997862" expanded="true" signature="5694:5850" placeholder="select IFNUL..edu_course_studyhistory..." />
+            <marker date="1446693998000" expanded="true" signature="1836:2001" placeholder="insert INTO edu_course_studyhistory..." />
+            <marker date="1446693998000" expanded="true" signature="2081:2142" placeholder="delete from ..." />
+            <marker date="1446693998000" expanded="true" signature="2232:2518" placeholder="update edu_c..." />
+            <marker date="1446693998000" expanded="true" signature="2634:2749" placeholder="select from ..edu_course_studyhistory..." />
+            <marker date="1446693998000" expanded="true" signature="3511:4086" placeholder="select , edu..." />
+            <marker date="1446693998000" expanded="true" signature="4507:4565" placeholder="delete from ..." />
+            <marker date="1446693998000" expanded="true" signature="5181:5566" placeholder="select disti..edu_course_studyhistory..." />
+            <marker date="1446693998000" expanded="true" signature="5694:5850" placeholder="select IFNUL..edu_course_studyhistory..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/course/CourseTeacherMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.724138">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="569:662" placeholder="INSERT INTO EDU_COURSE_TEACHER..." />
+            <marker date="1446693998000" expanded="true" signature="753:808" placeholder="DELETE FROM ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mybatis/simple/letter/MsgReceiveMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.93274856">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        <state vertical-scroll-proportion="-13.103448">
+          <caret line="64" column="35" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="35" />
           <folding>
-            <marker date="1446693997863" expanded="true" signature="1793:1934" placeholder="INSERT INTO edu_msg_receive..." />
-            <marker date="1446693997863" expanded="true" signature="2008:2098" placeholder="DELETE FROM ..." />
-            <marker date="1446693997863" expanded="true" signature="2196:2286" placeholder="DELETE FROM ..." />
-            <marker date="1446693997863" expanded="true" signature="2409:2705" placeholder="select , edu..." />
-            <marker date="1446693997863" expanded="true" signature="3120:3431" placeholder="select , edu..." />
-            <marker date="1446693997863" expanded="true" signature="3822:3884" placeholder="DELETE FROM ..." />
-            <marker date="1446693997863" expanded="true" signature="3977:4077" placeholder="UPDATE edu_m..." />
-            <marker date="1446693997863" expanded="true" signature="4171:4292" placeholder="UPDATE edu_m..." />
-            <marker date="1446693997863" expanded="true" signature="4386:4481" placeholder="UPDATE edu_m..." />
-            <marker date="1446693997863" expanded="true" signature="4570:4624" placeholder="UPDATE edu_m..." />
-            <marker date="1446693997863" expanded="true" signature="4742:4965" placeholder="select from ..edu_msg_receive..." />
-            <marker date="1446693997863" expanded="true" signature="5615:5735" placeholder="UPDATE edu_m..." />
-            <marker date="1446693997863" expanded="true" signature="5848:5974" placeholder="UPDATE edu_m..." />
-            <marker date="1446693997863" expanded="true" signature="6623:6999" placeholder="select from ..edu_msg_receive..." />
-            <marker date="1446693997863" expanded="true" signature="7831:8097" placeholder="select count..edu_msg_receive..." />
-            <marker date="1446693997863" expanded="true" signature="8209:8329" placeholder="UPDATE edu_m..." />
-            <marker date="1446693997863" expanded="true" signature="8442:8544" placeholder="UPDATE edu_m..." />
-            <marker date="1446693997863" expanded="true" signature="8625:8705" placeholder="DELETE FROM ..." />
-            <marker date="1446693997863" expanded="true" signature="8786:8848" placeholder="DELETE FROM ..." />
-            <marker date="1446693997863" expanded="true" signature="8926:9006" placeholder="DELETE FROM ..." />
-            <marker date="1446693997863" expanded="true" signature="9079:9134" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="1793:1934" placeholder="INSERT INTO edu_msg_receive..." />
+            <marker date="1446693998000" expanded="true" signature="2008:2098" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="2196:2286" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="2409:2705" placeholder="select , edu..." />
+            <marker date="1446693998000" expanded="true" signature="3120:3431" placeholder="select , edu..." />
+            <marker date="1446693998000" expanded="true" signature="3822:3884" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="3977:4077" placeholder="UPDATE edu_m..." />
+            <marker date="1446693998000" expanded="true" signature="4171:4292" placeholder="UPDATE edu_m..." />
+            <marker date="1446693998000" expanded="true" signature="4386:4481" placeholder="UPDATE edu_m..." />
+            <marker date="1446693998000" expanded="true" signature="4570:4624" placeholder="UPDATE edu_m..." />
+            <marker date="1446693998000" expanded="true" signature="4742:4965" placeholder="select from ..edu_msg_receive..." />
+            <marker date="1446693998000" expanded="true" signature="5615:5735" placeholder="UPDATE edu_m..." />
+            <marker date="1446693998000" expanded="true" signature="5848:5974" placeholder="UPDATE edu_m..." />
+            <marker date="1446693998000" expanded="true" signature="6623:6999" placeholder="select from ..edu_msg_receive..." />
+            <marker date="1446693998000" expanded="true" signature="7831:8097" placeholder="select count..edu_msg_receive..." />
+            <marker date="1446693998000" expanded="true" signature="8209:8329" placeholder="UPDATE edu_m..." />
+            <marker date="1446693998000" expanded="true" signature="8442:8544" placeholder="UPDATE edu_m..." />
+            <marker date="1446693998000" expanded="true" signature="8625:8705" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="8786:8848" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="8926:9006" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="9079:9134" placeholder="DELETE FROM ..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/layouts/web/default.jsp">
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/letter/MsgSenderMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75584793">
-          <caret line="116" column="7" selection-start-line="116" selection-start-column="7" selection-end-line="116" selection-end-column="7" />
+        <state vertical-scroll-proportion="-17.931034">
+          <caret line="44" column="34" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="34" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1293:1431" placeholder="INSERT INTO edu_msg_sender..." />
+            <marker date="1446693998000" expanded="true" signature="1569:1767" placeholder="select from ..edu_msg_sender..." />
+            <marker date="1446693998000" expanded="true" signature="2177:2257" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="2339:2417" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="2498:2569" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="2641:2695" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/letter/MsgSystemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.034483">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="34" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="918:1056" placeholder="INSERT INTO edu_msg_system..." />
+            <marker date="1446693998000" expanded="true" signature="1560:2042" placeholder="select from ..edu_msg_system..." />
+            <marker date="1446693998000" expanded="true" signature="2722:2774" placeholder="update edu_m..." />
+            <marker date="1446693998000" expanded="true" signature="3195:3291" placeholder="update edu_m..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/momment/CommentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.551723">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="24" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1701:2158" placeholder="select ,edu_..." />
+            <marker date="1446693998000" expanded="true" signature="3611:3734" placeholder="INSERT INTO edu_comment..." />
+            <marker date="1446693998000" expanded="true" signature="3824:4043" placeholder="UPDATE edu_c..." />
+            <marker date="1446693998000" expanded="true" signature="4107:4227" placeholder="UPDATE edu_c..." />
+            <marker date="1446693998000" expanded="true" signature="4289:4379" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/praise/PraiseMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.862069">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="30" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="831:937" placeholder="INSERT INTO edu_praise..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/questions/QuestionsCommentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.62069">
+          <caret line="48" column="41" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="41" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1649:1808" placeholder="insert INTO edu_questions_comment..." />
+            <marker date="1446693998000" expanded="true" signature="1886:1945" placeholder="delete from ..." />
+            <marker date="1446693998000" expanded="true" signature="2031:2285" placeholder="update edu_q..." />
+            <marker date="1446693998000" expanded="true" signature="2397:2664" placeholder="select ,edu_..." />
+            <marker date="1446693998000" expanded="true" signature="3667:4108" placeholder="select ,edu_..." />
+            <marker date="1446693998000" expanded="true" signature="4594:4662" placeholder="delete from ..." />
+            <marker date="1446693998000" expanded="true" signature="4792:6013" placeholder="select ,edu_..." />
+            <marker date="1446693998000" expanded="true" signature="6133:6222" placeholder="delete from ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/questions/QuestionsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.241379">
+          <caret line="52" column="33" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="33" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1517:1652" placeholder="insert INTO edu_questions..." />
+            <marker date="1446693998000" expanded="true" signature="1738:1789" placeholder="delete from ..." />
+            <marker date="1446693998000" expanded="true" signature="1877:2143" placeholder="update edu_q..." />
+            <marker date="1446693998000" expanded="true" signature="2261:2504" placeholder="select ,edu_..." />
+            <marker date="1446693998000" expanded="true" signature="6130:6323" placeholder="select from ..edu_questions..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/questions/QuestionsTagMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.241379">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="33" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1120:1258" placeholder="INSERT INTO EDU_QUESTIONS_TAG..." />
+            <marker date="1446693998000" expanded="true" signature="1390:1748" placeholder="SELECT FROM ..EDU_QUESTIONS_TAG..." />
+            <marker date="1446693998000" expanded="true" signature="1851:1981" placeholder="UPDATE EDU_Q..." />
+            <marker date="1446693998000" expanded="true" signature="2073:2220" placeholder="UPDATE EDU_Q..." />
+            <marker date="1446693998000" expanded="true" signature="2310:2397" placeholder="UPDATE EDU_Q..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/questions/QuestionsTagRelationMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.793103">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="46" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="953:1127" placeholder="insert INTO edu_questions_tag_relation..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/statistics/StatisticsDayMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.586207">
+          <caret line="44" column="42" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="42" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1562:1712" placeholder="select IfNUL..edu_user_login_log..." />
+            <marker date="1446693998000" expanded="true" signature="1826:2007" placeholder="insert INTO edu_statistics_day..." />
+            <marker date="1446693998000" expanded="true" signature="2167:2900" placeholder="select year...m..." />
+            <marker date="1446693998000" expanded="true" signature="2254:2268" placeholder="SELECT 12 as..." />
+            <marker date="1446693998000" expanded="true" signature="3049:4399" placeholder="SELECT DATE_..." />
+            <marker date="1446693998000" expanded="true" signature="3160:4043" placeholder="SELECT (#{no..." />
+            <marker date="1446693998000" expanded="true" signature="4522:4611" placeholder="select from ..edu_statistics_day..." />
+            <marker date="1446693998000" expanded="true" signature="4736:4894" placeholder="select from ..edu_statistics_day..." />
+            <marker date="1446693998000" expanded="true" signature="5880:6013" placeholder="delete from ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/subject/SubjectMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.103448">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="31" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1018:1149" placeholder="INSERT INTO SYS_SUBJECT..." />
+            <marker date="1446693998000" expanded="true" signature="1268:1561" placeholder="SELECT FROM ..SYS_SUBJECT..." />
+            <marker date="1446693998000" expanded="true" signature="1660:1762" placeholder="UPDATE SYS_S..." />
+            <marker date="1446693998000" expanded="true" signature="1845:1953" placeholder="UPDATE SYS_S..." />
+            <marker date="1446693998000" expanded="true" signature="2039:2148" placeholder="UPDATE SYS_S..." />
+            <marker date="1446693998000" expanded="true" signature="2220:2313" placeholder="UPDATE SYS_S..." />
+            <marker date="1446693998000" expanded="true" signature="2436:2568" placeholder="select from ..sys_subject..." />
+            <marker date="1446693998000" expanded="true" signature="2673:2794" placeholder="select from ..sys_subject..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/website/WebsiteCourseMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.4827585">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="34" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="931:1068" placeholder="INSERT INTO EDU_WEBSITE_COURSE..." />
+            <marker date="1446693998000" expanded="true" signature="1159:1209" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="1308:1542" placeholder="UPDATE EDU_W..." />
+            <marker date="1446693998000" expanded="true" signature="1667:1783" placeholder="SELECT FROM ..EDU_WEBSITE_COURSE..." />
+            <marker date="1446693998000" expanded="true" signature="1888:1965" placeholder="SELECT FROM ..EDU_WEBSITE_COURSE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/website/WebsiteImagesMapper.out.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/website/WebsiteImagesMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.172414">
+          <caret line="49" column="38" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="38" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1825:1974" placeholder="INSERT INTO EDU_WEBSITE_IMAGES..." />
+            <marker date="1446693998000" expanded="true" signature="2098:2617" placeholder="SELECT , EDU..." />
+            <marker date="1446693998000" expanded="true" signature="3251:3356" placeholder="SELECT FROM ..EDU_WEBSITE_IMAGES..." />
+            <marker date="1446693998000" expanded="true" signature="3449:3507" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="3594:4021" placeholder="UPDATE EDU_W..." />
+            <marker date="1446693998000" expanded="true" signature="4113:4211" placeholder="SELECT FROM ..EDU_WEBSITE_IMAGES..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/website/WebSiteImagesTypeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.103448">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="343:426" placeholder="INSERT INTO EDU_WEBSITE_IMAGES_TYPE..." />
+            <marker date="1446693998000" expanded="true" signature="522:597" placeholder="SELECT TYPE_..EDU_WEBSITE_IMAGES_TYPE..." />
+            <marker date="1446693998000" expanded="true" signature="677:735" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="825:907" placeholder="UPDATE EDU_W..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/website/WebsiteNavigateMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.931034">
+          <caret line="47" column="36" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="36" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1153:1403" placeholder="SELECT FROM ..EDU_WEBSITE_NAVIGATE..." />
+            <marker date="1446693998000" expanded="true" signature="1556:1698" placeholder="INSERT INTO EDU_WEBSITE_NAVIGATE..." />
+            <marker date="1446693998000" expanded="true" signature="1795:2069" placeholder="UPDATE EDU_W..." />
+            <marker date="1446693998000" expanded="true" signature="2151:2220" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="2317:2422" placeholder="UPDATE EDU_W..." />
+            <marker date="1446693998000" expanded="true" signature="2545:2664" placeholder="SELECT FROM ..EDU_WEBSITE_NAVIGATE..." />
+            <marker date="1446693998000" expanded="true" signature="2766:2954" placeholder="SELECT FROM ..EDU_WEBSITE_NAVIGATE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/website/WebsiteProfileMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.413794">
+          <caret line="27" column="86" selection-start-line="27" selection-start-column="67" selection-end-line="27" selection-end-column="86" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="802:880" placeholder="SELECT FROM ..EDU_WEBSITE_PROFILE..." />
+            <marker date="1446693998000" expanded="true" signature="976:1058" placeholder="UPDATE EDU_W..." />
+            <marker date="1446693998000" expanded="true" signature="1196:1319" placeholder="SELECT FROM ..EDU_WEBSITE_PROFILE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/publicMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.103448">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="463:495" placeholder="select LAST_..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/order/OrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.206897">
+          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1033:1196" placeholder="UPDATE EDU_O..." />
+            <marker date="1446693998000" expanded="true" signature="1505:3324" placeholder="SELECT EDU_O..EDU_ORDERS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/system/SysUserLoginLogMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.0">
+          <caret line="33" column="73" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="73" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="973:1090" placeholder="INSERT INTO SYS_LOGIN_LOG..." />
+            <marker date="1446693998000" expanded="true" signature="1202:1343" placeholder="SELECT FROM ..SYS_LOGIN_LOG..." />
+            <marker date="1446693998000" expanded="true" signature="1483:1550" placeholder="SELECT COUNT..SYS_LOGIN_LOG..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/system/SysRoleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6896552">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="799:900" placeholder="INSERT INTO SYS_ROLE..." />
+            <marker date="1446693998000" expanded="true" signature="965:1051" placeholder="UPDATE SYS_R..." />
+            <marker date="1446693998000" expanded="true" signature="1124:1179" placeholder="SELECT FROM ..SYS_ROLE..." />
+            <marker date="1446693998000" expanded="true" signature="1258:1314" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="1391:1461" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="1555:1634" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="1716:1806" placeholder="INSERT INTO SYS_ROLE_FUNCTION..." />
+            <marker date="1446693998000" expanded="true" signature="1901:2001" placeholder="SELECT SYS_R..SYS_ROLE_FUNCTION..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/system/SysFunctionMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6896552">
+          <caret line="34" column="71" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="71" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1133:1228" placeholder="SELECT FROM ..SYS_FUNCTION..." />
+            <marker date="1446693998000" expanded="true" signature="1404:1521" placeholder="INSERT INTO SYS_FUNCTION..." />
+            <marker date="1446693998000" expanded="true" signature="1625:1881" placeholder="UPDATE SYS_F..." />
+            <marker date="1446693998000" expanded="true" signature="1977:2080" placeholder="UPDATE SYS_F..." />
+            <marker date="1446693998000" expanded="true" signature="2176:2245" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="2373:2659" placeholder="SELECT FROM ..SYS_FUNCTION..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/teacher/TeacherMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6896552">
+          <caret line="47" column="31" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="31" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1393:1523" placeholder="INSERT INTO EDU_TEACHER..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/user/UserLoginLogMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.551724">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1001:1133" placeholder="INSERT INTO EDU_USER_LOGIN_LOG..." />
+            <marker date="1446693998000" expanded="true" signature="1242:1403" placeholder="SELECT FROM ..EDU_USER_LOGIN_LOG..." />
+            <marker date="1446693998000" expanded="true" signature="1543:1620" placeholder="SELECT COUNT..EDU_USER_LOGIN_LOG..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/user/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6896552">
+          <caret line="69" column="33" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="33" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1672:1773" placeholder="INSERT INTO EDU_USER..." />
+            <marker date="1446693998000" expanded="true" signature="1884:1971" placeholder="SELECT FROM ..EDU_USER..." />
+            <marker date="1446693998000" expanded="true" signature="2082:2142" placeholder="SELECT COUNT..EDU_USER..." />
+            <marker date="1446693998000" expanded="true" signature="2253:2312" placeholder="SELECT COUNT..EDU_USER..." />
+            <marker date="1446693998000" expanded="true" signature="2434:2589" placeholder="SELECT FROM ..EDU_USER..." />
+            <marker date="1446693998000" expanded="true" signature="2671:2756" placeholder="UPDATE EDU_U..." />
+            <marker date="1446693998000" expanded="true" signature="4465:4552" placeholder="UPDATE EDU_U..." />
+            <marker date="1446693998000" expanded="true" signature="4631:4794" placeholder="UPDATE EDU_U..." />
+            <marker date="1446693998000" expanded="true" signature="4872:4954" placeholder="UPDATE EDU_U..." />
+            <marker date="1446693998000" expanded="true" signature="5049:5116" placeholder="UPDATE EDU_U..." />
+            <marker date="1446693998000" expanded="true" signature="5201:5230" placeholder="SELECT COUNT..EDU_USER..." />
+            <marker date="1446693998000" expanded="true" signature="5367:5470" placeholder="SELECT FROM ..EDU_USER..." />
+            <marker date="1446693998000" expanded="true" signature="5933:6105" placeholder="update EDU_U..." />
+            <marker date="1446693998000" expanded="true" signature="6212:6288" placeholder="update EDU_U..." />
+            <marker date="1446693998000" expanded="true" signature="6391:6460" placeholder="update EDU_U..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/website/WebsiteCourseDetailMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6896552">
+          <caret line="40" column="41" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="41" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1415:1522" placeholder="INSERT INTO EDU_WEBSITE_COURSE_DETAIL..." />
+            <marker date="1446693998000" expanded="true" signature="1667:2291" placeholder="SELECT FROM ..EDU_WEBSITE_COURSE_DETAIL..." />
+            <marker date="1446693998000" expanded="true" signature="3064:3119" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="3214:3279" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="3370:3439" placeholder="UPDATE EDU_W..." />
+            <marker date="1446693998000" expanded="true" signature="3556:3673" placeholder="SELECT FROM ..EDU_WEBSITE_COURSE_DETAIL..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/system/SysUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6896552">
+          <caret line="46" column="28" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="28" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1429:1534" placeholder="INSERT INTO SYS_USER..." />
+            <marker date="1446693998000" expanded="true" signature="1633:1806" placeholder="UPDATE SYS_U..." />
+            <marker date="1446693998000" expanded="true" signature="1919:2001" placeholder="UPDATE SYS_U..." />
+            <marker date="1446693998000" expanded="true" signature="2136:2223" placeholder="SELECT FROM ..SYS_USER..." />
+            <marker date="1446693998000" expanded="true" signature="2364:2680" placeholder="SELECT FROM ..SYS_USER..." />
+            <marker date="1446693998000" expanded="true" signature="3227:3291" placeholder="SELECT COUNT..SYS_USER..." />
+            <marker date="1446693998000" expanded="true" signature="3419:3553" placeholder="SELECT FROM ..SYS_USER..." />
+            <marker date="1446693998000" expanded="true" signature="3654:3737" placeholder="UPDATE SYS_U..." />
+            <marker date="1446693998000" expanded="true" signature="3858:4034" placeholder="update SYS_U..." />
+            <marker date="1446693998000" expanded="true" signature="4154:4274" placeholder="UPDATE SYS_U..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/course/CourseFavoritesMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6896552">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="36" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1056:1200" placeholder="INSERT INTO EDU_COURSE_FAVORITES..." />
+            <marker date="1446693998000" expanded="true" signature="1293:1350" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="1462:1553" placeholder="SELECT COUNT..EDU_COURSE_FAVORITES..." />
+            <marker date="1446693998000" expanded="true" signature="1693:1968" placeholder="SELECT EDU_C..EDU_COURSE_FAVORITES..." />
+            <marker date="1446693998000" expanded="true" signature="2108:2267" placeholder="SELECT COUNT..EDU_COURSE_FAVORITES..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/course/CourseKpointMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6896552">
+          <caret line="55" column="37" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="37" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="1699:1833" placeholder="INSERT INTO EDU_COURSE_KPOINT..." />
+            <marker date="1446693998000" expanded="true" signature="1959:2116" placeholder="SELECT FROM ..EDU_COURSE_KPOINT..." />
+            <marker date="1446693998000" expanded="true" signature="2245:2871" placeholder="SELECT EDU_C..EDU_COURSE_KPOINT..." />
+            <marker date="1446693998000" expanded="true" signature="2960:3400" placeholder="UPDATE EDU_C..." />
+            <marker date="1446693998000" expanded="true" signature="3498:3574" placeholder="DELETE FROM ..." />
+            <marker date="1446693998000" expanded="true" signature="3677:3791" placeholder="UPDATE EDU_C..." />
+            <marker date="1446693998000" expanded="true" signature="3909:4044" placeholder="SELECT IFNUL..edu_course_kpoint..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis/simple/course/CourseMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.103448">
+          <caret line="183" column="41" selection-start-line="183" selection-start-column="41" selection-end-line="183" selection-end-column="41" />
+          <folding>
+            <marker date="1446693998000" expanded="true" signature="3566:3676" placeholder="INSERT INTO EDU_COURSE..." />
+            <marker date="1446693998000" expanded="true" signature="5926:6022" placeholder="SELECT FROM ..EDU_COURSE..." />
+            <marker date="1446693998000" expanded="true" signature="6105:6721" placeholder="UPDATE EDU_C..." />
+            <marker date="1446693998000" expanded="true" signature="6821:6913" placeholder="UPDATE EDU_C..." />
+            <marker date="1446693998000" expanded="true" signature="7029:7340" placeholder="SELECT FROM ..EDU_WEBSITE_COURSE_DETAIL..." />
+            <marker date="1446693998000" expanded="true" signature="10666:10911" placeholder="SELECT FROM ..EDU_COURSE..." />
+            <marker date="1446693998000" expanded="true" signature="11050:11231" placeholder="SELECT COUNT..EDU_COURSE..." />
+            <marker date="1446693998000" expanded="true" signature="11802:11833" placeholder="SELECT COUNT..EDU_COURSE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/admin/assets/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7659575">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -1394,7 +1972,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
