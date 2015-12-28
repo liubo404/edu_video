@@ -37,7 +37,7 @@
 	<div class="b-box">
 		<div id="container">
 			<div id="box">
-				<h2>网校后台管理系统</h2>
+				<h2>微中医视频后台管理系统</h2>
 				<form action="${ctx}/admin/main/login" method="POST" id="loginForm">
 					<p class="main">
 						<label>用户名: </label>

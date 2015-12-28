@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>首页</title>
+<title></title>
 <script>
 	var theme_color = '${theme_color}';
 </script>
@@ -18,7 +18,7 @@
 			<div class="swiper-container">
 				<div class="swiper-wrapper">
 					<c:forEach var="image" items="${websiteImagesList}" varStatus="status">
-						<div class="swiper-slide" style="background: <c:if test="${empty image.color}">#EF550F;</c:if><c:if test="${!empty image.color}">${image.color}</c:if>;">
+						<div class="swiper-slide" <%--style="background: <c:if test="${empty image.color}">#EF550F;</c:if><c:if test="${!empty image.color}">${image.color}</c:if>;"--%>>
 							<img class="imgload" src="<%=staticImage%>${image.imagesUrl}" alt="${image.title}">
 						</div>
 					</c:forEach>
@@ -53,7 +53,7 @@
 			<section class="container">
 				<header class="comm-title">
 					<h2 class="tac">
-						<span class="c-333">网校课程</span>
+						<span class="c-333">中医讲堂</span>
 					</h2>
 				</header>
 				<div>
@@ -162,7 +162,7 @@
 			<section class="container">
 				<header class="comm-title">
 					<h2 class="tac">
-						<span class="c-333">网校名师</span>
+						<span class="c-333">名师风采</span>
 					</h2>
 				</header>
 				<div>

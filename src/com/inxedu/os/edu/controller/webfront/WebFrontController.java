@@ -97,13 +97,19 @@ public class WebFrontController extends BaseController {
 			model.addAttribute("theme_color", (String)EHCacheUtil.get("inxedu_index_theme_color"));
 			
 			// 查询排序最高的4位老师
-			List<Teacher> teacherList=(List<Teacher>)EHCacheUtil.get(CacheConstans.INDEX_TEACHER_RECOMMEND);
+			/*List<Teacher> teacherList=(List<Teacher>)EHCacheUtil.get(CacheConstans.INDEX_TEACHER_RECOMMEND);
 			if(teacherList==null||teacherList.size()==0){
 				QueryTeacher queryTeacher = new QueryTeacher();
 				queryTeacher.setCount(4);
 				teacherList = teacherService.queryTeacherList(queryTeacher);
 				EHCacheUtil.set(CacheConstans.INDEX_TEACHER_RECOMMEND, teacherList,CacheConstans.RECOMMEND_COURSE_TIME);//缓存一小时
-			}
+			}*/
+
+			// 去除缓存
+			QueryTeacher queryTeacher = new QueryTeacher();
+			queryTeacher.setCount(4);
+			List<Teacher> teacherList=teacherService.queryTeacherList(queryTeacher);
+
 			model.addAttribute("teacherList", teacherList);
 			
 			//课程互动
@@ -195,7 +201,7 @@ public class WebFrontController extends BaseController {
     }
     
     public void changeColor(HttpServletRequest request,String colorfalg){
-    	String color="#ea562e";
+    	String color="#ff3333";
     	if (colorfalg.equals("blue")) {
     		color="#009ed9";
 		}else if (colorfalg.equals("green")) {

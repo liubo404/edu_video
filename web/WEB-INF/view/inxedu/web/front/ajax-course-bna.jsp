@@ -28,9 +28,9 @@
 						</c:if>
 						<span class="fl jgAttr c-ccc f-fA"> <tt class="c-999 f-fA">
 								<c:if test="${course_bna.currentPrice=='0.00' }">${course_bna.pageViewcount}</c:if><c:if test="${course_bna.currentPrice!='0.00' }">${course_bna.pageBuycount}</c:if>人学习
-							</tt> | <tt class="c-999 f-fA">
+							</tt> <%--| <tt class="c-999 f-fA">
 								<c:if test="${course_bna.currentPrice=='0.00' }">${course_bna.pageViewcount}</c:if><c:if test="${course_bna.currentPrice!='0.00' }">${course_bna.pageViewcount}</c:if>评论
-							</tt>
+							</tt> todo 隐藏评论数量 --%>
 						</span>
 					</section>
 				</div>
